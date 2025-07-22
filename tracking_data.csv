@@ -1,0 +1,1210 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+YouTube,Wellness Week,1,2217112c-cb5c-4d7f-9073-06abea6cc1e0,Protein Powder,2025-04-17,2,9334
+YouTube,Wellness Week,1,6debc11f-c854-423e-be55-c50313d5155c,Creatine,2025-05-04,1,1637
+YouTube,Winter Bulk,1,0c27aa3b-981a-4bc4-9a66-51c2f1a61a7d,Creatine,2025-06-04,1,3456
+YouTube,Summer Fit,1,c09f6828-0aef-4b6a-a45c-393d4ffa4632,Protein Powder,2025-04-07,3,4689
+YouTube,Festival Boost,1,187dbfb9-f03a-4d38-92e2-e022a1345fcd,Omega 3,2025-03-27,2,7522
+YouTube,Summer Fit,1,9b7d2b94-dc52-41c8-b74e-10960f1b00c3,Multivitamins,2025-03-20,2,7708
+YouTube,Festival Boost,1,ab410cdb-86ef-4461-a4ea-5bdb3af3ad93,Creatine,2025-03-01,2,2214
+YouTube,Winter Bulk,1,8933c220-3929-41df-8f29-b9ad7801989e,Multivitamins,2025-06-20,3,14214
+YouTube,Wellness Week,1,1e2ec21f-28c0-4148-875a-0ab3a8f85d6f,Creatine,2025-04-28,3,5970
+YouTube,Summer Fit,1,e20757dc-f069-4af3-8de6-5f141100bf5e,Omega 3,2025-06-21,3,2859
+Instagram,Wellness Week,2,c3602383-c852-4921-a850-1a3931f8db73,Energy Bar,2025-07-08,2,3696
+Instagram,Winter Bulk,2,9d583fec-555d-4699-b5d8-0c688408103c,Omega 3,2025-06-20,3,7041
+Instagram,Winter Bulk,2,c9075dd6-4b62-4be6-ae98-674f35aa7df2,Multivitamins,2025-03-28,2,2292
+Instagram,Wellness Week,2,bc34e7b9-e3e1-44dd-90b5-3cf1fd069517,Energy Bar,2025-02-03,3,8244
+Instagram,Summer Fit,2,23c785cb-6625-4f6a-b232-f917990dc0f3,Omega 3,2025-02-16,3,14610
+Instagram,Wellness Week,2,753d3be8-dcf2-423b-8a7f-3e4cf27590a8,Multivitamins,2025-05-20,3,5643
+Instagram,Summer Fit,2,255beeea-a9bd-495a-84af-619b95e92842,Protein Powder,2025-04-06,3,9795
+Instagram,Winter Bulk,2,b41a064e-33a7-4a56-8f2a-2c6b2bc028e1,Multivitamins,2025-02-23,1,872
+Instagram,Summer Fit,2,3d41fe83-b196-445d-b4fb-c16cb6533b67,Creatine,2025-04-10,3,11736
+YouTube,Festival Boost,3,ee0dce2b-4f08-4b76-b0c0-9200cf504145,Multivitamins,2025-05-10,3,8922
+YouTube,Winter Bulk,3,0ed3f657-ff45-4197-af9b-fe2b40b05c2d,Creatine,2025-02-02,3,11478
+YouTube,Wellness Week,3,b8b8f2b8-583c-4b34-bee2-3df0d8be0fa8,Creatine,2025-06-05,1,990
+YouTube,Festival Boost,3,2c8770ec-7998-408f-9429-2ca8ef77e808,Multivitamins,2025-04-25,2,8932
+YouTube,Winter Bulk,3,a3c5b3e0-ccbe-4ce9-bc02-8a85e66f6652,Energy Bar,2025-02-23,2,3352
+YouTube,Festival Boost,3,6842dbd8-f13d-4348-b103-59a5e3d6c728,Multivitamins,2025-03-17,3,9987
+YouTube,Summer Fit,3,b8e6d92d-a938-4822-954c-0efdefaa40c9,Energy Bar,2025-01-22,2,9436
+YouTube,Summer Fit,3,176692ba-8853-44e9-955a-008c8d22fda5,Energy Bar,2025-02-18,1,4321
+YouTube,Wellness Week,3,8d795fb0-0ab0-42a9-bd52-638cb082f8e3,Protein Powder,2025-02-17,2,5060
+YouTube,Festival Boost,3,e21f5aab-7780-4fcb-b12f-2b659d2e9733,Omega 3,2025-06-09,1,2877
+YouTube,Wellness Week,3,d97e3c8f-ff59-4173-80ab-bb2fe1b6367d,Energy Bar,2025-07-13,2,5066
+YouTube,Wellness Week,3,47f9fcbb-61c4-4c84-b9ae-468412d3dbae,Multivitamins,2025-04-09,3,9183
+YouTube,Festival Boost,3,a5c10cd4-d1be-4f33-bf2a-6abe3c7df44c,Creatine,2025-02-07,2,9432
+YouTube,Summer Fit,3,d39ac9b1-1bed-4f02-baf6-53828837a220,Protein Powder,2025-02-01,2,9148
+Instagram,Wellness Week,4,2da23601-7771-46c8-9249-46a6668b2b8f,Multivitamins,2025-05-28,3,12735
+Instagram,Summer Fit,4,2cc61c6d-029d-4d50-a037-7d7acf07749f,Protein Powder,2025-04-04,3,10170
+Instagram,Festival Boost,4,55e75223-d8db-435b-b366-7b2756db7583,Energy Bar,2025-06-21,2,9108
+Instagram,Summer Fit,4,bb474bb1-1eb1-4792-8d98-63300bc49c05,Creatine,2025-02-24,3,1698
+Instagram,Winter Bulk,4,7a0bfc33-1e2c-44a9-b655-1eacd49a90f1,Creatine,2025-04-18,1,2666
+Instagram,Festival Boost,4,0e098e3c-171a-4d95-ab0d-998f43855ff4,Protein Powder,2025-02-22,2,1740
+Instagram,Winter Bulk,4,b640ce5f-fa22-4e0e-9cea-ddcc9883b2d1,Omega 3,2025-02-14,3,6282
+Instagram,Festival Boost,4,d5b7d716-fe3d-4f5f-95d7-f10a49edd7a5,Omega 3,2025-02-04,2,2204
+Instagram,Summer Fit,4,4dc16f85-325d-4363-8560-58ebd24cf18f,Multivitamins,2025-05-20,2,5582
+Instagram,Winter Bulk,4,6efb2ee1-22c2-4b16-aaf0-90b868788b7c,Energy Bar,2025-02-16,1,3726
+Instagram,Wellness Week,4,4374b930-6f9c-44bd-921c-ba26d23b7c4f,Multivitamins,2025-01-31,3,10485
+Instagram,Festival Boost,4,9aed1899-25e4-4280-bb80-560c82969c8d,Omega 3,2025-06-11,3,14010
+Instagram,Summer Fit,4,330b8af4-9fe5-4b63-9c02-de0e627a449a,Multivitamins,2025-04-19,1,871
+Instagram,Festival Boost,4,dfd15eeb-6892-40f0-811b-55945cd3dd3d,Omega 3,2025-05-16,3,9684
+Instagram,Wellness Week,4,f0120cfc-3513-47c1-99bd-ef7a30d4f98c,Energy Bar,2025-05-30,2,3440
+Instagram,Wellness Week,4,46eddf4c-f431-4283-8d85-570507b3aa36,Creatine,2025-06-26,3,9327
+Instagram,Winter Bulk,4,868e10e8-3df3-40dd-a9ce-46b43c7e4578,Omega 3,2025-06-20,3,8853
+Instagram,Festival Boost,5,ddafd1d7-4651-4c00-a2ce-ac7e861708a2,Protein Powder,2025-05-16,3,8865
+Instagram,Summer Fit,5,c39d9161-35da-42ba-ab9d-a003877e1bc0,Creatine,2025-02-26,2,6426
+Instagram,Summer Fit,5,0c2ed9c1-9150-4ea9-aa94-629f5c8b2ec9,Omega 3,2025-01-30,3,9060
+Instagram,Wellness Week,5,337acb03-3a80-4782-bb42-012449fcb43a,Protein Powder,2025-03-06,2,5350
+Instagram,Wellness Week,5,68fdeae9-ba98-4b7d-b766-76d8257c3de8,Omega 3,2025-03-25,3,13305
+Instagram,Wellness Week,5,462fe3e8-f885-4933-bd59-12c92d4f0c1e,Multivitamins,2025-07-20,3,10842
+Instagram,Wellness Week,5,43ea5676-4a39-417e-bafd-be889a7c317e,Protein Powder,2025-03-10,1,1400
+Instagram,Festival Boost,5,daa061a8-9214-4988-8c96-4ad039ded393,Multivitamins,2025-03-31,2,6138
+Instagram,Festival Boost,5,7d3e6d77-f182-4f65-9306-237d86259e8f,Omega 3,2025-03-31,2,4340
+Instagram,Summer Fit,5,8b802917-7b4d-47fb-b273-05b3661848d6,Multivitamins,2025-05-29,3,13089
+Instagram,Winter Bulk,5,b8acbb73-beff-4a0a-8c71-74595395c278,Creatine,2025-03-08,3,6594
+Instagram,Winter Bulk,5,4d4d5bdf-600a-4b88-8477-43eece7bf835,Multivitamins,2025-05-07,3,10758
+Instagram,Winter Bulk,5,ebd86494-6b23-45f2-9daa-5e33a4f09686,Omega 3,2025-03-28,2,9734
+Instagram,Festival Boost,5,34e57689-efa3-463a-b71d-a160522b928d,Multivitamins,2025-04-20,2,5330
+Instagram,Winter Bulk,5,06e9a8d0-d95b-4055-95e3-cf5e56cf8ad8,Multivitamins,2025-07-04,1,2785
+Instagram,Wellness Week,5,d9e9eaec-e0f7-4f53-8cc3-7bdba8ca361c,Creatine,2025-02-10,2,5734
+Instagram,Winter Bulk,5,59a3dfd0-0ea9-4d25-ba45-e654e39bb9b2,Omega 3,2025-05-19,2,8860
+Instagram,Winter Bulk,5,24719c82-57fe-47b3-8aca-fdba244294e4,Protein Powder,2025-01-26,3,8220
+Instagram,Festival Boost,5,ddd526fb-8933-4410-b188-5a84c0b80016,Creatine,2025-05-03,3,14847
+Instagram,Winter Bulk,5,e7f678ba-621e-4a5f-b0c8-14dfa5c37d4d,Protein Powder,2025-06-01,2,3398
+YouTube,Winter Bulk,6,e05ffba3-87e7-4906-98f1-1d75ddf8bf90,Creatine,2025-03-12,3,3441
+YouTube,Festival Boost,6,e68cd9c4-e27b-458b-a8a0-37b01fd6b88b,Multivitamins,2025-06-02,3,7800
+YouTube,Winter Bulk,6,752783db-5cd9-4fed-b4e7-2c0fa772c810,Omega 3,2025-03-18,1,4912
+YouTube,Wellness Week,6,bbd7a39d-d1dc-4904-9d70-60fcf5eb4ba7,Protein Powder,2025-06-29,3,8175
+YouTube,Wellness Week,6,c22a43b7-5c02-4494-88d6-05a1b49a3f62,Protein Powder,2025-02-02,3,7380
+YouTube,Wellness Week,6,dbe0b9a0-27f6-4635-bcf9-815c9aace340,Multivitamins,2025-03-22,3,14550
+YouTube,Festival Boost,6,153f93b2-0508-4774-886b-5fe4170c2390,Energy Bar,2025-03-19,1,1320
+YouTube,Summer Fit,6,7022717d-31d5-4061-8b7f-8ce00630ad26,Multivitamins,2025-07-15,3,13107
+YouTube,Festival Boost,6,583c8afb-5702-4c62-b877-9efaa164a584,Creatine,2025-06-23,1,1793
+YouTube,Winter Bulk,6,98e14e53-8018-4f42-9f04-63d5bc31fee2,Energy Bar,2025-02-06,2,4266
+YouTube,Summer Fit,6,a5ba0807-e0b5-4c8c-8709-ccfa2774fff4,Omega 3,2025-02-27,2,1968
+YouTube,Summer Fit,6,d0c0d09c-12e9-420a-9fc2-53928dbd6cd9,Multivitamins,2025-06-23,1,4883
+YouTube,Summer Fit,6,fde1de06-8706-472d-ad2e-bc3933baf77c,Creatine,2025-05-25,2,3880
+YouTube,Winter Bulk,6,4be01cfc-25f5-41e6-b7a0-b4fa29a542aa,Protein Powder,2025-07-07,2,4052
+Instagram,Winter Bulk,7,7b64dd72-27ff-49d8-9639-a0c6c9989326,Energy Bar,2025-03-12,2,2758
+Instagram,Festival Boost,7,25cc0c82-9bd1-46ba-ad6a-55333820bc7e,Multivitamins,2025-02-28,2,9900
+Instagram,Winter Bulk,7,045d856d-47d0-46a0-bd3e-9655fab8993f,Multivitamins,2025-04-17,3,13002
+Instagram,Wellness Week,7,14482b33-0257-489b-b230-39ab1b73ea18,Creatine,2025-03-27,1,3208
+Instagram,Wellness Week,7,028ab883-4a31-46b8-81a1-131e25ff9131,Protein Powder,2025-06-10,3,7821
+Instagram,Wellness Week,8,3122926c-30be-4805-b706-56b6fead753f,Omega 3,2025-05-09,2,4164
+Instagram,Festival Boost,8,852915a3-4ac5-4d87-be9c-d08239b79a44,Omega 3,2025-05-22,3,11463
+Instagram,Festival Boost,8,b06b0b58-8eff-45bc-9fcf-051b270068f1,Protein Powder,2025-03-16,2,2420
+Instagram,Festival Boost,8,2cb49db9-484a-4300-b45f-e7da1d01491d,Energy Bar,2025-03-26,1,1651
+Instagram,Winter Bulk,8,7d56e4cb-0e92-4211-945a-d5b21ffa1c05,Creatine,2025-05-24,1,555
+Instagram,Winter Bulk,8,210dcb5c-517f-4f00-9c06-c848a5ece620,Energy Bar,2025-04-21,1,4159
+Instagram,Winter Bulk,8,f86adc8d-54e1-43da-b806-6cdfe8d95729,Energy Bar,2025-07-11,2,1186
+Instagram,Summer Fit,8,e8226a50-34c6-433f-ab7c-eae6360c5a0e,Protein Powder,2025-03-30,3,7305
+Instagram,Wellness Week,8,d23b227f-0d0d-4589-9df0-039e82cfb8ab,Creatine,2025-01-24,2,6026
+Instagram,Winter Bulk,8,bcb13d93-2cdf-4e06-b2cd-e6bbdec4f938,Protein Powder,2025-02-26,3,13848
+Instagram,Winter Bulk,8,65b578b4-7de8-4e4b-86d8-31cb8b907c3b,Omega 3,2025-06-20,3,8748
+Instagram,Wellness Week,8,c76693e2-5dfe-4d1c-8437-54a642fc43ce,Creatine,2025-06-01,1,2295
+Instagram,Winter Bulk,8,cac8d31f-9be8-4b56-8a01-061c6fd1e8b1,Creatine,2025-03-21,1,4227
+Instagram,Festival Boost,8,02c21ab2-6cc5-4bb3-adcd-c8d15accf19c,Omega 3,2025-05-02,3,14997
+Instagram,Wellness Week,8,644f5d90-1966-41f8-acf9-453935da5c25,Omega 3,2025-03-25,3,6867
+YouTube,Winter Bulk,9,45625647-8795-4980-a092-4c36c40e8014,Protein Powder,2025-07-09,3,12477
+YouTube,Summer Fit,9,389fcacf-e3b0-4c49-a38c-5a7a7138d6c4,Omega 3,2025-04-22,3,4257
+YouTube,Wellness Week,9,c87a6ce5-c9bf-4eb1-a4d4-4108f2773d16,Multivitamins,2025-07-20,3,6468
+YouTube,Festival Boost,9,c97ff80a-967a-491e-85c7-1b012431fc3d,Protein Powder,2025-04-16,2,9524
+YouTube,Festival Boost,9,9f31ad26-b8a5-4d87-8d27-d6ad244c6c97,Protein Powder,2025-06-18,3,6546
+YouTube,Summer Fit,9,6dd0a801-6aff-49f4-9bf7-dd869703baf3,Creatine,2025-06-02,3,12447
+YouTube,Festival Boost,9,71eea787-7dd7-4222-b75a-f3600ab5c7e2,Creatine,2025-02-08,1,4704
+YouTube,Winter Bulk,10,a96af11f-ecff-4f61-86d0-bb04b79796b6,Protein Powder,2025-01-30,3,12861
+YouTube,Summer Fit,10,e9853d5d-5627-4437-be4c-8dbb447faf30,Multivitamins,2025-04-22,2,5168
+YouTube,Summer Fit,10,497e1954-d96c-4bed-a075-29a8671e5d9a,Creatine,2025-03-07,3,3294
+YouTube,Summer Fit,10,07282763-89d3-49e4-ba11-552127525d7c,Protein Powder,2025-05-02,2,2044
+YouTube,Winter Bulk,10,873db527-846f-49fa-ad3a-f73dd2411ae9,Creatine,2025-05-20,2,1518
+YouTube,Festival Boost,10,916c5d6d-2cdf-4081-9864-1ea455965eff,Energy Bar,2025-04-17,1,1609
+YouTube,Festival Boost,11,cf0abb29-02fc-418e-8e74-cec22c69fe60,Protein Powder,2025-02-24,2,7184
+YouTube,Wellness Week,11,edd819f9-45b7-4a19-9aff-d1aff3c4dfc4,Energy Bar,2025-04-28,3,14751
+YouTube,Festival Boost,11,ebef6241-f33f-42f0-8e61-9e6bb21bea4d,Omega 3,2025-02-12,1,1962
+YouTube,Summer Fit,11,ba26a7d9-50c1-4b90-9a6a-d9e5964afbf1,Protein Powder,2025-02-15,1,2324
+YouTube,Festival Boost,11,f7535714-4df0-4d95-aae3-b4bc15002e8b,Omega 3,2025-04-19,2,8584
+YouTube,Wellness Week,11,8c5282e8-af07-410a-8425-6c7bc9b2558d,Creatine,2025-01-30,2,4762
+YouTube,Winter Bulk,11,751d8ba2-8255-42f9-a14a-59464c2c367a,Multivitamins,2025-02-01,2,3540
+YouTube,Summer Fit,11,8b429e05-4d73-405e-ba29-177d876a3366,Creatine,2025-05-24,3,4272
+YouTube,Wellness Week,11,061dd723-0b53-473e-950f-c7100856db5f,Multivitamins,2025-04-14,3,1884
+YouTube,Summer Fit,11,85554dcf-89e5-43b7-9060-0a51d0c7f316,Creatine,2025-06-23,1,1326
+YouTube,Wellness Week,11,b199caf8-2e61-493d-b002-6e4977866d14,Protein Powder,2025-02-09,3,2694
+YouTube,Wellness Week,11,cfd12d80-4888-462f-9600-24f50ea40f3e,Omega 3,2025-04-22,2,8190
+YouTube,Wellness Week,11,31340f6b-fb32-424d-9d4a-f167a485bad7,Omega 3,2025-04-20,1,962
+YouTube,Winter Bulk,11,3eaa75bc-daf7-4358-ab69-80bff10e88e3,Omega 3,2025-07-15,2,4836
+YouTube,Wellness Week,11,5c98fcf1-971e-4ce7-a75c-e46988ca2db3,Energy Bar,2025-04-15,3,9378
+YouTube,Wellness Week,11,e5b583b5-c893-492d-9f58-80158a583fc8,Creatine,2025-02-02,1,4770
+YouTube,Summer Fit,11,bf8aba21-e6fc-4f09-ba76-e66dd1e8ca66,Omega 3,2025-06-14,2,5508
+Twitter,Festival Boost,12,bed5eeb0-d26a-4669-b7b6-999048cf3af4,Protein Powder,2025-02-06,3,11997
+Twitter,Winter Bulk,12,46441243-eaea-4799-a6fa-2a933cf07464,Creatine,2025-07-15,2,7244
+Twitter,Winter Bulk,12,8f735a0d-a693-4070-9817-f388fae652a7,Creatine,2025-03-16,2,3444
+Twitter,Festival Boost,12,138b0635-57fe-42d2-ab67-9362f37665f3,Multivitamins,2025-06-01,1,4906
+Twitter,Wellness Week,12,e404dff4-931f-4d1b-9448-b103377e5246,Creatine,2025-06-25,1,2963
+Twitter,Festival Boost,12,c2a80be1-7478-4ed7-8a34-c4d7c3575a36,Omega 3,2025-07-06,1,3880
+Twitter,Festival Boost,12,46368161-066e-4460-a6f8-64a35d54d95c,Multivitamins,2025-02-04,3,4794
+Twitter,Winter Bulk,12,30f3b257-57d6-4c6e-a728-c77aa7cf8a28,Protein Powder,2025-07-02,2,4330
+Twitter,Summer Fit,12,f852153a-b431-414c-93f6-b471f335d879,Omega 3,2025-03-16,2,7078
+Twitter,Summer Fit,12,d8598a7f-ac71-4a9a-b4cf-4d1cc2a9e781,Energy Bar,2025-04-13,3,6180
+Twitter,Summer Fit,13,17529e21-ccd2-457b-992a-5bb52cdaa4f4,Multivitamins,2025-04-26,3,2469
+Twitter,Festival Boost,13,955b2902-f8a0-4747-85ec-ea48160977eb,Multivitamins,2025-05-27,3,6831
+Twitter,Summer Fit,13,d082dcf5-9b91-4361-9d25-f4b4877c8839,Multivitamins,2025-05-02,2,5966
+Twitter,Festival Boost,13,44822e93-6b61-441b-96f0-40939064753b,Multivitamins,2025-02-10,1,1461
+Twitter,Festival Boost,13,b5fddd43-26da-45db-9e33-0367c8b9f1ee,Multivitamins,2025-03-10,3,6525
+Twitter,Winter Bulk,13,c9f369f4-b60a-485c-80fc-3be5c4b573d3,Creatine,2025-05-11,3,9402
+Twitter,Winter Bulk,13,f40e87fa-16bd-4695-a5e9-f8aec4b2a024,Energy Bar,2025-04-27,2,9742
+Twitter,Festival Boost,13,f58f21d8-5c54-4d2b-aed1-1f49d08c845c,Creatine,2025-05-28,2,6892
+Twitter,Winter Bulk,13,922cee2a-fe01-4392-b33f-fc1187caf165,Multivitamins,2025-03-18,1,4346
+Twitter,Festival Boost,13,08b5e035-5a35-4f49-b93c-793e412ef39b,Protein Powder,2025-04-17,2,6126
+Twitter,Wellness Week,13,754efc8f-8fa1-41c9-947f-d02a1b1da015,Protein Powder,2025-02-26,3,6936
+Twitter,Winter Bulk,13,d2fd4121-6b0a-4623-8035-9293e5a93047,Multivitamins,2025-05-03,2,7840
+Twitter,Wellness Week,13,dcf45c06-620d-47e9-9b20-bd82ac7c21db,Creatine,2025-05-16,1,3202
+Twitter,Festival Boost,13,149bacfe-3550-4609-bf82-988744e8137a,Omega 3,2025-06-26,3,7539
+Twitter,Winter Bulk,13,28176d7f-191d-42fc-aed1-5a3933cc6305,Creatine,2025-02-12,3,9795
+Twitter,Festival Boost,13,cd6779c4-3d3b-4136-92d6-2d5534287001,Multivitamins,2025-02-13,3,13554
+Twitter,Wellness Week,13,271b0f90-be06-4c3b-9c80-cd5a48269aa0,Multivitamins,2025-03-16,3,10155
+YouTube,Summer Fit,14,493f0a11-6a5d-47f2-aa4c-2f393129d1ad,Omega 3,2025-02-27,1,4941
+YouTube,Summer Fit,14,d520f898-6941-4399-bd8c-01ea13808e80,Protein Powder,2025-05-01,1,1108
+YouTube,Wellness Week,14,168af3e5-c02d-4bdd-91e7-b507ee7ae9d3,Protein Powder,2025-02-10,2,3252
+YouTube,Summer Fit,14,2ad2f75b-372f-4ffd-8980-c17d1259d83d,Multivitamins,2025-04-05,3,5211
+YouTube,Winter Bulk,14,3f342462-be83-4931-9103-4ae9fb521c6d,Protein Powder,2025-06-03,3,12705
+YouTube,Festival Boost,14,9ee5e068-f167-459c-b778-4787a253510d,Protein Powder,2025-05-04,3,13374
+YouTube,Festival Boost,14,9aeccdd7-abff-4d48-af0d-052b2c10e7eb,Protein Powder,2025-07-09,1,4859
+YouTube,Winter Bulk,14,628f1519-89b4-444e-ac82-2d04446b6fec,Omega 3,2025-02-16,1,4836
+YouTube,Festival Boost,14,5ec6e82d-99b4-4338-a33b-8e9031cf6578,Multivitamins,2025-05-29,2,1280
+YouTube,Wellness Week,14,3380e454-6de2-497c-ad13-4b83746967fb,Multivitamins,2025-04-06,1,1289
+YouTube,Winter Bulk,14,8f492a0e-cce7-49b5-b505-ce9839a9e11e,Energy Bar,2025-06-28,1,4812
+YouTube,Summer Fit,14,9d4f452d-724e-44d1-9176-90805f847426,Energy Bar,2025-03-12,2,7502
+YouTube,Wellness Week,14,dfb20cab-dc7e-45ae-aff6-6efb3cbd1934,Multivitamins,2025-01-28,2,8520
+YouTube,Summer Fit,14,6d60e677-88d9-473d-aaa7-c2c27ae2fb98,Protein Powder,2025-05-30,2,2320
+YouTube,Festival Boost,14,d910e389-cb33-4ca1-bbf3-6752c709c2b5,Omega 3,2025-06-28,2,7212
+YouTube,Summer Fit,14,563aa478-ca49-4fae-bf1d-8eb6eb699e99,Multivitamins,2025-03-19,2,1918
+YouTube,Festival Boost,14,3395345d-20e1-4dc7-8067-0ce0f6a4a023,Energy Bar,2025-02-16,1,4594
+YouTube,Summer Fit,14,45738099-6031-4977-a46d-fd63852e2a9c,Multivitamins,2025-06-08,3,3843
+YouTube,Winter Bulk,14,32261328-6725-440e-8d18-2070023e398e,Protein Powder,2025-03-03,1,4395
+YouTube,Summer Fit,14,1c68f447-6e48-4682-bed0-956fffbba154,Multivitamins,2025-05-19,1,2796
+YouTube,Wellness Week,15,be8967bb-11cf-43e0-b084-a6ad10184bbf,Creatine,2025-03-02,1,2197
+YouTube,Wellness Week,15,7503c6f9-2353-405b-82b1-32b23a477794,Omega 3,2025-03-23,1,2951
+YouTube,Winter Bulk,15,d9a6ffe7-65fe-4c97-a510-a3c0197bfa67,Creatine,2025-07-18,1,3687
+YouTube,Summer Fit,15,e482c820-9d58-423e-beeb-f82ff400a928,Omega 3,2025-04-14,3,4938
+YouTube,Summer Fit,15,c3354b99-73eb-481f-a401-589bef5ea900,Protein Powder,2025-07-07,3,9999
+YouTube,Summer Fit,15,8fc7d511-d4ef-4d71-8b5f-a98543480b00,Energy Bar,2025-02-07,2,4802
+YouTube,Winter Bulk,15,1e130cb5-7908-43c8-b986-83322adde42d,Protein Powder,2025-05-24,3,11247
+YouTube,Festival Boost,15,1365f9da-817b-46fb-9abb-c44705d57205,Creatine,2025-03-16,3,8217
+YouTube,Festival Boost,15,d710e599-b2d2-4bfe-b66a-834ac079f6de,Creatine,2025-07-18,1,3414
+YouTube,Summer Fit,15,9157a754-f0f1-4d69-995b-29a71ed1222e,Omega 3,2025-04-26,1,3613
+YouTube,Summer Fit,15,ed69717e-211c-4046-86fd-ddfcfae2dfd3,Protein Powder,2025-03-09,2,5036
+YouTube,Festival Boost,15,e146a1ef-7fb9-4a62-a894-bf1eb6ea2cb4,Multivitamins,2025-04-24,2,3526
+YouTube,Winter Bulk,15,1506ab1f-f550-4b91-b595-e3118b71f839,Energy Bar,2025-05-09,3,11073
+YouTube,Summer Fit,15,a1ac4e4a-4948-4b5d-a318-edb73a459309,Energy Bar,2025-05-13,1,1249
+YouTube,Winter Bulk,15,aef601dc-80f1-4f8c-afdf-6b6b96dd33a4,Protein Powder,2025-06-05,2,6896
+YouTube,Festival Boost,16,e5a4b751-95c7-4908-b943-83ab6b65bf72,Creatine,2025-02-22,1,2035
+YouTube,Festival Boost,16,d3da108d-3494-4abe-8cd7-18d7a8727aae,Protein Powder,2025-04-19,3,14091
+YouTube,Winter Bulk,16,19a4e58b-7d67-4809-9ff9-9962af29c654,Omega 3,2025-03-30,1,1234
+YouTube,Festival Boost,16,e8bab254-9340-4d4c-9645-53058635c581,Protein Powder,2025-07-15,1,3157
+YouTube,Festival Boost,16,1a242bac-3cad-4ed7-aee1-a4f60c1669d0,Protein Powder,2025-04-17,2,7778
+YouTube,Wellness Week,16,f7ffa14f-a73b-48b1-b874-6b67116fbfd4,Creatine,2025-03-16,3,7464
+YouTube,Winter Bulk,16,9740b825-e3ef-418b-9edc-9b599bdc00ee,Energy Bar,2025-06-06,1,1637
+YouTube,Wellness Week,16,8e3b6a5d-2bda-45f5-bc6b-fd53617a6b89,Protein Powder,2025-05-15,2,9078
+YouTube,Winter Bulk,16,6829958b-e5a2-4364-b3fd-b582559bad2a,Creatine,2025-04-15,1,4060
+Twitter,Winter Bulk,17,48e4451a-380e-49b0-a4b7-a4050baf6e04,Energy Bar,2025-03-31,2,2260
+Twitter,Wellness Week,17,da029f2a-3424-4d32-b286-3a43872caebe,Creatine,2025-02-18,1,4561
+Twitter,Winter Bulk,17,a4393edc-858e-4937-8c10-28880c9bf6f2,Protein Powder,2025-02-12,1,1609
+Twitter,Festival Boost,17,607eef6d-b2f4-4246-b20b-ebf4a38e6ead,Energy Bar,2025-05-22,2,6442
+Twitter,Festival Boost,17,8374e350-6519-4fa7-ad36-62d344f7c7e8,Omega 3,2025-03-05,2,6484
+Twitter,Winter Bulk,17,76d3b916-e584-48a2-997e-95f2748c55e9,Omega 3,2025-05-07,1,2961
+Twitter,Festival Boost,17,db98a062-4d3d-4d2b-ba56-ef2db79bd9d8,Energy Bar,2025-05-07,3,6435
+Twitter,Winter Bulk,17,74d1c477-bcaa-4ff0-904d-ac06772a831a,Energy Bar,2025-01-21,1,3762
+Twitter,Wellness Week,17,579cd3d1-19c5-4746-90a4-2b2123711546,Energy Bar,2025-03-30,3,13566
+Twitter,Festival Boost,17,b6a2560d-b5c5-4930-bce2-142669e82499,Energy Bar,2025-05-14,2,5592
+Twitter,Wellness Week,17,cc638d8b-f41c-4c14-acdc-cc2e7286a449,Omega 3,2025-06-07,1,2136
+Twitter,Wellness Week,17,dce6c425-55b4-4a36-8968-7b37d5f47d58,Creatine,2025-03-08,1,4281
+Twitter,Festival Boost,17,755ed602-1bdc-495a-876b-120f4a903941,Creatine,2025-06-24,2,2132
+Twitter,Wellness Week,17,b4319406-46dc-49fe-abb0-a37d1274979d,Energy Bar,2025-02-26,1,2980
+Instagram,Festival Boost,18,123fe8d6-5d90-4840-9d7a-04fdbbffe68a,Protein Powder,2025-03-30,3,11898
+Instagram,Festival Boost,18,b3465d2d-d5e2-4fda-a774-a44027a412e9,Omega 3,2025-05-08,2,8850
+Instagram,Summer Fit,18,f994eabb-187e-466d-9b9c-1fd759da72d4,Energy Bar,2025-05-09,3,11778
+Instagram,Summer Fit,18,8a0fb79f-e398-4c28-a1b3-00f744bf947b,Protein Powder,2025-02-01,3,14694
+Instagram,Wellness Week,18,d9a76682-5db3-49ac-97bb-f3d4667fc23d,Omega 3,2025-03-27,1,3408
+Instagram,Winter Bulk,18,7a75874b-46e5-42b8-bf32-b51f7a1a5ae2,Creatine,2025-03-12,1,3773
+Instagram,Summer Fit,18,6154ef06-8e8f-48bb-93f2-3e42f75c4e86,Energy Bar,2025-05-24,1,586
+Instagram,Wellness Week,18,849a1773-70d1-4cc9-bba5-40a0d668f803,Creatine,2025-01-23,1,4683
+Instagram,Festival Boost,18,263421ef-b29f-4ec8-837e-faea32c51aa2,Omega 3,2025-04-17,2,7408
+YouTube,Festival Boost,19,c6c41938-9579-4d75-862f-8c962db708ee,Protein Powder,2025-07-02,2,1402
+YouTube,Summer Fit,19,736ae115-97f1-48c3-935d-e6a3c101d4a3,Protein Powder,2025-07-15,2,7814
+YouTube,Winter Bulk,19,2745f134-c21d-4ebd-9712-112f2421561e,Energy Bar,2025-04-03,3,4980
+YouTube,Wellness Week,19,610a6274-fa10-435c-82ee-cb2528832879,Omega 3,2025-05-31,2,8460
+YouTube,Festival Boost,19,6b77b70c-1943-424b-9882-392072927166,Protein Powder,2025-06-09,2,6706
+YouTube,Winter Bulk,19,f6ddacbf-512d-4639-8665-3d602dd71db3,Protein Powder,2025-02-04,2,8412
+YouTube,Summer Fit,19,00060e60-9bb1-4516-a1a2-8aeae95b9696,Protein Powder,2025-04-05,2,1732
+YouTube,Wellness Week,19,2d7c298c-e656-488c-ad26-650b96a9c05e,Multivitamins,2025-03-01,2,2790
+YouTube,Wellness Week,19,982d1695-7a60-4416-a3a4-a27de6826954,Energy Bar,2025-04-20,3,5787
+YouTube,Festival Boost,20,f80bd349-0fbf-41b4-a343-9f97696fe1fe,Multivitamins,2025-01-25,2,4798
+YouTube,Festival Boost,20,e940d157-246f-45fc-a1e3-01746b183fbf,Protein Powder,2025-03-14,1,4040
+YouTube,Festival Boost,20,f4b8ee57-7ba1-4731-8133-9a2b78903b88,Omega 3,2025-01-24,3,6348
+YouTube,Summer Fit,20,bbea32d7-e147-4d0c-8911-82def44e1a7b,Multivitamins,2025-06-19,2,7370
+YouTube,Summer Fit,20,b768102a-5b13-4bbc-b0bc-b9faa8166051,Omega 3,2025-01-19,1,2780
+YouTube,Wellness Week,20,f051f780-1f36-4676-999a-5d8445edfe4e,Energy Bar,2025-06-07,1,4898
+YouTube,Festival Boost,20,dcd40139-8de2-493e-87b5-c2b3d9d9c4f3,Protein Powder,2025-03-10,2,4228
+YouTube,Winter Bulk,20,f430b9e4-df17-4a50-af68-9095b36aacbf,Omega 3,2025-07-01,2,9018
+YouTube,Summer Fit,20,eb606809-1225-41e7-83a3-a0b1508a64f6,Energy Bar,2025-04-24,2,7430
+YouTube,Wellness Week,20,0af1b4ae-629c-43c2-8741-bc429b61a0e8,Energy Bar,2025-05-19,2,8500
+YouTube,Wellness Week,20,14c3b075-c3fd-404f-9d50-d8f67f90ffad,Energy Bar,2025-03-30,3,3582
+YouTube,Winter Bulk,20,2343f64c-d2fd-40a7-8a2c-51afed8336bb,Protein Powder,2025-03-08,1,2454
+YouTube,Wellness Week,20,3229a7bc-0cba-4680-832e-53d84659043e,Omega 3,2025-05-03,1,3558
+YouTube,Wellness Week,20,004b72ba-a590-4444-995b-e50e5eca2319,Omega 3,2025-03-30,2,7852
+YouTube,Wellness Week,20,e660789a-f0ac-4c4d-ab37-245b529d48f8,Creatine,2025-01-25,2,7930
+YouTube,Wellness Week,20,4a249fc6-9ef6-4c4f-8ca4-ad572813abaf,Omega 3,2025-03-27,3,14706
+YouTube,Winter Bulk,20,191202fa-a4af-4f35-aa7b-41ab974346ed,Multivitamins,2025-02-05,1,4511
+YouTube,Festival Boost,20,02b7deec-89f0-4515-bca6-ad6fcf99cf61,Omega 3,2025-03-07,1,3077
+YouTube,Festival Boost,21,06514e98-e4e8-45bb-ba89-f190a1b159ce,Multivitamins,2025-03-27,2,1156
+YouTube,Festival Boost,21,71f3b959-c7a2-40bb-963d-e2066c75b22a,Creatine,2025-02-18,1,3645
+YouTube,Festival Boost,21,d0f037b8-4c59-4a43-84b9-9be88277818f,Creatine,2025-02-27,3,13584
+YouTube,Summer Fit,21,24484129-bd64-4b4b-b4a5-c3922aee08fc,Omega 3,2025-05-19,2,3740
+YouTube,Winter Bulk,21,2ab8b6dc-2e8f-4032-92fe-ffb4f14c2ce5,Protein Powder,2025-06-15,1,2306
+YouTube,Winter Bulk,21,1efd39c7-77ac-44e3-9f5b-01641ad6ce42,Multivitamins,2025-01-26,2,4682
+Twitter,Summer Fit,22,4f9e583f-677c-49d8-89b3-c10b92142585,Omega 3,2025-03-14,3,13671
+Twitter,Winter Bulk,22,0d8ddb8f-1eaa-4141-8c1f-be9b21f4be61,Omega 3,2025-04-23,1,2694
+Twitter,Wellness Week,22,da4a12bd-1450-4249-ba1b-23eb28bca128,Creatine,2025-06-17,1,4115
+Twitter,Winter Bulk,22,2748d4d3-9fd2-470a-a991-128df904d4fc,Protein Powder,2025-04-25,1,2527
+Twitter,Winter Bulk,22,2d2e8600-b7fb-497a-9f0d-77177e289fea,Protein Powder,2025-03-27,2,5304
+Twitter,Wellness Week,22,6b29e20f-4752-4bb5-8dd3-7ffbf95c5107,Multivitamins,2025-02-25,2,2922
+Twitter,Festival Boost,22,5db75e43-9259-46f3-9988-83363dd48577,Multivitamins,2025-04-04,3,10116
+Twitter,Wellness Week,22,372b4abd-42ff-4f6d-8457-7bb4fc60c274,Multivitamins,2025-03-06,3,4920
+Twitter,Winter Bulk,22,19fe36f3-bb64-4db1-bddd-7da7904a9dd1,Omega 3,2025-04-21,1,3373
+Twitter,Winter Bulk,22,1b0a24fc-a186-4751-8553-20edd3a7f7cc,Energy Bar,2025-07-12,3,5637
+Twitter,Summer Fit,22,ea6721de-da98-4b18-99a8-5f4accd180b9,Multivitamins,2025-07-03,2,5380
+Twitter,Winter Bulk,22,c8364e8f-82bf-4493-b89c-db459362a448,Multivitamins,2025-05-09,2,1970
+Twitter,Wellness Week,22,8488cbe0-8507-4c15-a13e-03f5b95ea6ba,Multivitamins,2025-03-29,3,4761
+Twitter,Wellness Week,22,a7ea146c-8ce2-4afc-ac87-fce4d3dc17c0,Creatine,2025-05-21,3,9414
+Twitter,Winter Bulk,22,43c2f3ea-2d07-42ad-98e8-dd6e79dd249c,Creatine,2025-07-13,2,3328
+Twitter,Summer Fit,22,f86d41d9-1ba5-4418-8f82-bba6fd4a8439,Protein Powder,2025-05-09,2,8404
+Twitter,Winter Bulk,22,f7213358-38ba-4134-bebd-0627058e0d4e,Energy Bar,2025-04-05,2,9446
+Twitter,Winter Bulk,22,065c64a8-5fa6-49da-8c43-ec0807a85d85,Omega 3,2025-03-31,2,8996
+Twitter,Festival Boost,22,f3ed15e3-b4f9-4b68-b631-36820731b407,Energy Bar,2025-06-05,1,1263
+YouTube,Wellness Week,23,13074448-d50e-4ee5-8c15-09205fbf35bc,Creatine,2025-02-08,3,11274
+YouTube,Winter Bulk,23,ab7cf4dc-1a20-40d8-8648-61a2ac285a68,Energy Bar,2025-02-05,1,4552
+YouTube,Wellness Week,23,812e5feb-0697-49a6-bac4-32104bf5aac7,Omega 3,2025-02-24,2,6532
+YouTube,Summer Fit,23,08b4ec77-fc4e-4f1b-af6b-6cde2b62c69a,Protein Powder,2025-04-25,2,6630
+YouTube,Summer Fit,23,24e7858d-a7e8-4306-be86-8e4c5c6fc324,Protein Powder,2025-05-13,1,4264
+YouTube,Festival Boost,23,90c3d5fe-db81-43e9-8a59-986676018e64,Protein Powder,2025-04-26,1,4115
+YouTube,Wellness Week,23,1a9f92d5-01c3-4a39-9b8f-477c6c39dca5,Energy Bar,2025-07-07,2,4314
+Instagram,Winter Bulk,24,51936fde-3f39-41bf-84ed-46616abd15fe,Energy Bar,2025-05-16,2,2528
+Instagram,Wellness Week,24,98b5ed7c-88b2-4804-babb-f473a42cb990,Protein Powder,2025-02-21,1,3546
+Instagram,Wellness Week,24,332a0a75-4d7a-4fbf-a77f-37c25843c48b,Creatine,2025-04-19,2,6004
+Instagram,Summer Fit,24,21437bdf-d84f-482c-af63-848f17e522ae,Protein Powder,2025-06-02,3,3741
+Instagram,Summer Fit,24,fd883ba0-338d-4185-b849-f649504e6d4f,Multivitamins,2025-04-10,1,4406
+Instagram,Festival Boost,24,c7bb16b4-9ff8-42b7-a36b-30e8d26b47e8,Protein Powder,2025-06-16,3,7056
+Instagram,Summer Fit,24,853fe2a4-8a6b-45b1-b8f6-6cd0bcb54e3e,Creatine,2025-06-22,1,3314
+Instagram,Festival Boost,24,3188e7c9-c8e8-46df-95ff-81c6d73631fc,Protein Powder,2025-05-27,3,4746
+Instagram,Summer Fit,24,b0b16e89-6357-4743-9acd-2ba6f93aaf20,Protein Powder,2025-02-10,1,3638
+Instagram,Winter Bulk,24,396abad0-89a3-4e45-8936-28d0b40c20ac,Energy Bar,2025-01-23,1,3066
+Twitter,Wellness Week,25,3e561142-5d43-4cc4-baa9-8250e694fddd,Protein Powder,2025-06-12,2,3180
+Twitter,Wellness Week,25,bca24f46-69bc-4a0e-87f4-d8fba86cef18,Creatine,2025-02-12,3,1707
+Twitter,Wellness Week,25,33ed705f-f0e8-4fdb-b68d-9b35cef96597,Creatine,2025-02-08,2,4490
+Twitter,Wellness Week,25,21c1ebf6-40e6-4680-a170-4982f87039bd,Protein Powder,2025-06-15,3,12372
+Twitter,Summer Fit,25,1eae80c2-247b-43cc-b856-7e45261d14d2,Omega 3,2025-03-08,1,1646
+Twitter,Winter Bulk,25,0fddc4ae-f245-4da8-b662-87879aed2155,Creatine,2025-05-18,3,10935
+Twitter,Wellness Week,25,5841367d-2d0a-4bfd-acdb-9335090accdc,Energy Bar,2025-05-11,2,3290
+Twitter,Wellness Week,25,f71b92ba-cc28-441d-839e-7a3104c8c39a,Omega 3,2025-07-06,3,3570
+Twitter,Summer Fit,25,dd71cfbf-1841-482f-889e-487417712bfc,Energy Bar,2025-01-25,3,8502
+YouTube,Wellness Week,26,58e510a3-9784-412c-939e-2b8d58fdd620,Creatine,2025-06-19,3,14022
+YouTube,Wellness Week,26,6cb342f1-c982-478c-b7f4-1c9dc84891a6,Creatine,2025-04-04,2,1894
+YouTube,Wellness Week,26,7d3393fa-6683-4957-a363-5ea7df0d62cd,Creatine,2025-05-29,2,2846
+YouTube,Summer Fit,26,d0810ebf-6f5d-43c1-b573-dffb16ce274e,Energy Bar,2025-05-15,3,3243
+YouTube,Festival Boost,26,40d9bddb-dbed-462c-a666-1431a4b022f6,Omega 3,2025-02-02,2,3162
+YouTube,Wellness Week,26,d9d20f79-967f-457d-b1f0-754bdb0549bd,Creatine,2025-03-22,2,6986
+YouTube,Summer Fit,26,d0429c71-4cbe-4cc9-90d6-064cc7775823,Protein Powder,2025-05-02,1,636
+YouTube,Summer Fit,26,cfce8ded-c8f6-44e8-83ab-7236839482fe,Protein Powder,2025-03-27,2,4534
+YouTube,Winter Bulk,26,7bdbd6e7-0ddc-4664-861f-fb57972b4853,Omega 3,2025-04-11,2,9300
+YouTube,Festival Boost,26,dfb2368a-b46b-4c81-a6b8-c5cf131a1192,Protein Powder,2025-07-15,2,7938
+YouTube,Wellness Week,26,50e5372d-adc9-4765-a298-273148c5c12a,Energy Bar,2025-03-14,3,14685
+Instagram,Wellness Week,27,1a104002-0f56-4456-937e-87d221f6b1be,Multivitamins,2025-06-19,2,2294
+Instagram,Festival Boost,27,ce09ef07-1f72-468e-82e4-a97faaab5880,Omega 3,2025-04-02,3,9528
+Instagram,Winter Bulk,27,e94d3eed-808b-45a8-a5d5-6625d2025b7c,Creatine,2025-02-06,3,3123
+Instagram,Summer Fit,27,f6cc5b08-7977-483a-950b-b62c62e4a4a7,Multivitamins,2025-03-21,3,7362
+Instagram,Summer Fit,27,ced023a5-a023-43f1-98a3-c8b670e472de,Creatine,2025-06-16,1,4059
+Instagram,Winter Bulk,27,9fcece3e-aa02-4f78-bd33-049d4cc74f1d,Multivitamins,2025-05-18,3,2850
+Instagram,Wellness Week,27,c130827c-0c7a-40bc-b0cd-92e11293120c,Protein Powder,2025-05-20,1,603
+Instagram,Winter Bulk,28,f2d25650-b591-4ce8-9e77-254caf3a69df,Multivitamins,2025-05-10,2,6680
+Instagram,Winter Bulk,28,916c3ebf-db8b-47fe-864d-561239bad4e5,Protein Powder,2025-06-06,2,3078
+Instagram,Festival Boost,28,881b928d-bb1f-4a18-9690-91228613be9d,Energy Bar,2025-07-17,1,3244
+Instagram,Winter Bulk,28,36f32051-d309-42c8-b219-d707b556e4d5,Omega 3,2025-07-09,3,3069
+Instagram,Festival Boost,28,c7b54bb8-8ab9-4d03-8025-b7f6f5ab36dd,Creatine,2025-05-03,3,3393
+Instagram,Summer Fit,28,565c7a93-6c4e-40b8-bdc3-eed36bd00f39,Creatine,2025-07-07,3,10350
+Instagram,Winter Bulk,28,e9c420c6-b9fc-4206-821a-85b885bba638,Multivitamins,2025-05-31,3,5601
+Instagram,Summer Fit,28,6125d672-aaf0-40af-a56a-83cf8b71f522,Multivitamins,2025-05-19,2,2684
+Instagram,Summer Fit,28,b06539a7-dbc0-495f-bca9-02533f5728a2,Protein Powder,2025-05-04,3,14004
+Instagram,Summer Fit,28,d0e8fa35-bdd7-42f7-b477-b49da2c13cd6,Creatine,2025-03-30,1,2503
+YouTube,Wellness Week,29,59a66518-3ed3-4e0c-834c-9a2a75571d7d,Protein Powder,2025-02-21,2,3458
+YouTube,Wellness Week,29,66f9c709-a993-4161-9255-0dedf48e54df,Energy Bar,2025-04-20,3,11805
+YouTube,Winter Bulk,29,6933c89f-2b97-4823-acf1-3590b4a066e7,Energy Bar,2025-01-21,1,3909
+YouTube,Summer Fit,29,1d38a8fd-423c-41e6-8b2a-3c921c910b8e,Omega 3,2025-03-01,1,3554
+YouTube,Wellness Week,29,85ed9894-2f50-4722-92cd-5a3e9beee3ad,Multivitamins,2025-05-24,3,2793
+YouTube,Festival Boost,29,65e860ea-f7eb-4a73-b7f4-0be30c88b19a,Protein Powder,2025-05-09,3,2628
+YouTube,Winter Bulk,29,a5f0aa26-2329-4715-b191-fcd371aff63e,Energy Bar,2025-06-30,2,5624
+YouTube,Summer Fit,29,2d537f8e-12a6-42a1-9abe-1eb4478b2382,Energy Bar,2025-07-20,1,4241
+YouTube,Winter Bulk,29,658342a2-d04f-4a65-9ad4-5e1149e4a529,Omega 3,2025-03-31,1,2888
+YouTube,Winter Bulk,29,ba06bcee-249e-4171-b918-059cebf4ac5d,Omega 3,2025-07-20,1,4300
+YouTube,Wellness Week,29,27dff7ef-e91c-4ec2-83a2-8bcbbedd2159,Multivitamins,2025-06-18,2,4200
+YouTube,Summer Fit,29,73d736a5-e8a6-4445-a42a-5b13faaf1861,Multivitamins,2025-01-28,1,3859
+YouTube,Summer Fit,29,ece29aee-488b-4b17-81cc-4c99c444221f,Energy Bar,2025-05-09,3,10011
+YouTube,Winter Bulk,29,61e76545-5a75-434d-ba67-5a2c84d477bd,Protein Powder,2025-02-12,1,3582
+YouTube,Wellness Week,29,417c6d94-5b46-4401-b856-5801f33ec849,Creatine,2025-03-29,1,4840
+YouTube,Wellness Week,29,6a0c2a74-8ec9-42de-b924-159ce70279d2,Energy Bar,2025-02-26,2,1980
+YouTube,Festival Boost,30,d9a9b8bd-73c1-4e51-9dc3-e46408bf5f56,Energy Bar,2025-07-18,1,2396
+YouTube,Summer Fit,30,f5db08dc-7716-4839-b404-df8c8edeb373,Omega 3,2025-03-30,2,2390
+YouTube,Summer Fit,30,1ac0d5c8-c86a-450c-8019-ae50561897c4,Omega 3,2025-07-20,1,3730
+YouTube,Festival Boost,30,5ff0bbdf-5356-48e1-b950-31d1267c6dfe,Multivitamins,2025-07-02,3,3030
+YouTube,Winter Bulk,30,bb36c690-8b60-4098-be8c-b86d171642b7,Energy Bar,2025-06-28,1,2889
+YouTube,Winter Bulk,30,2b05db3c-73ef-4f35-ae59-45a63a122742,Creatine,2025-04-29,2,6344
+YouTube,Summer Fit,30,b7da0ce6-0268-4b78-9470-507edd4e0963,Multivitamins,2025-03-30,2,4826
+Instagram,Wellness Week,31,0c9ce205-cea6-4d81-9e39-c48b8bf8783d,Protein Powder,2025-02-01,3,4176
+Instagram,Festival Boost,31,5123b0be-6d35-4296-9e8f-ea30a0b9e3e3,Energy Bar,2025-07-02,1,4182
+Instagram,Winter Bulk,31,dcdda026-6deb-4ded-9355-712c8e068b4f,Multivitamins,2025-04-15,2,2978
+Instagram,Festival Boost,31,49c9b53e-1d86-457e-9d90-63bcf235bcd8,Energy Bar,2025-06-13,2,6050
+Instagram,Wellness Week,31,ea934982-4d71-41ae-abde-05f689c24841,Energy Bar,2025-06-16,1,1240
+Instagram,Wellness Week,31,ee79b955-1827-4179-98e0-1c7477ec11fe,Energy Bar,2025-06-14,3,2490
+Instagram,Wellness Week,31,7e1a148b-3bc1-43e4-86f5-f460dc47b89c,Energy Bar,2025-04-10,1,1247
+Instagram,Summer Fit,31,8dfe9165-9663-462f-9b54-ebc75fc90cad,Energy Bar,2025-07-12,2,9412
+Instagram,Summer Fit,31,86b0e686-3c92-4325-add6-c4bcd4b6ab96,Creatine,2025-05-17,2,3848
+Twitter,Summer Fit,32,9386e37a-0a78-4dbd-8214-3c9db1b5305c,Creatine,2025-05-30,3,7638
+Twitter,Summer Fit,32,39e4ec00-62a8-4c79-8b6b-579f805d1e42,Protein Powder,2025-07-16,1,1645
+Twitter,Wellness Week,32,b6fce2c6-21dd-4949-b7c0-ac767867fa5a,Multivitamins,2025-04-03,1,2320
+Twitter,Summer Fit,32,6aa644e7-1848-4e4c-afac-b2ba1f5ee561,Omega 3,2025-03-14,2,7098
+Twitter,Summer Fit,32,e654ecc3-7a7d-434a-9364-1b4fe8b388d2,Protein Powder,2025-02-15,3,7860
+Twitter,Festival Boost,32,952bb829-7777-4b8c-b0f2-d9cc1096aa0f,Multivitamins,2025-03-26,1,2119
+Twitter,Summer Fit,32,3009051a-8261-48db-9bfd-0967bbd5191c,Protein Powder,2025-03-01,1,3216
+Twitter,Wellness Week,32,14a6123f-22bf-4f5e-ae8e-245b5b9f92f7,Omega 3,2025-05-04,2,1828
+Twitter,Festival Boost,32,72ae97d0-eb7b-4492-b57d-31485b6b39a3,Protein Powder,2025-03-28,2,7470
+Twitter,Wellness Week,32,2b6edfd8-2847-4c88-932f-26fd4673ae1d,Energy Bar,2025-03-12,2,7990
+Twitter,Winter Bulk,32,5a24ac1b-ab1c-4de9-b4ba-2ec6dbfb4242,Energy Bar,2025-02-16,1,2033
+Twitter,Summer Fit,32,52db5830-20ee-444a-b940-0f3a94954a66,Omega 3,2025-04-23,2,3434
+Twitter,Winter Bulk,32,914dd03e-2765-4481-aa64-15edea4b7887,Creatine,2025-05-04,3,7539
+Twitter,Summer Fit,32,6509d583-ddd1-43ea-afae-301535f50dcc,Protein Powder,2025-06-09,2,8848
+Twitter,Wellness Week,32,916957ba-1748-4438-8299-abe80661d9d6,Creatine,2025-02-20,2,7274
+Twitter,Wellness Week,32,a77952d6-d2a0-458f-a8b2-dc3eb774cac3,Omega 3,2025-03-25,1,4807
+Twitter,Winter Bulk,32,ab56b13d-cabc-43e8-9029-b3562b352262,Creatine,2025-06-10,1,3633
+Twitter,Winter Bulk,32,ce6c668a-b727-4715-9000-a98e0de6702e,Omega 3,2025-06-30,3,13410
+Twitter,Festival Boost,32,0ad19542-e5d1-48a6-98ff-bb59c9ddc2cf,Energy Bar,2025-03-22,3,9402
+Instagram,Wellness Week,33,d4d8b45b-caac-451f-9949-b4aa0dc0be94,Protein Powder,2025-03-11,1,3112
+Instagram,Festival Boost,33,e388d733-6f41-41cb-88ef-c42a0b1e4ac3,Omega 3,2025-04-04,2,1958
+Instagram,Wellness Week,33,d7bb391f-07b7-47fe-88c1-4611dc97133b,Protein Powder,2025-04-14,2,4812
+Instagram,Winter Bulk,33,61ba6f34-f5d2-4db0-9abd-3139da09c420,Omega 3,2025-04-02,1,2475
+Instagram,Wellness Week,33,c515b0d0-ca7b-4e53-8b51-08a506a1e714,Omega 3,2025-06-01,3,2874
+Instagram,Wellness Week,33,d6f854f0-da6b-435b-aeae-dc906d2b7013,Multivitamins,2025-04-13,2,6812
+Instagram,Winter Bulk,33,8ab5b6ab-dddf-4a09-8ffc-a4b3cfe51618,Omega 3,2025-02-11,1,3105
+Instagram,Wellness Week,33,00ade0b7-8d4a-4ae7-a73c-63d2b5d18fdd,Omega 3,2025-04-10,1,3380
+Instagram,Winter Bulk,33,71218185-2575-463f-86e0-d44618ee170c,Multivitamins,2025-02-21,1,4532
+Instagram,Summer Fit,33,e6ecf321-6215-44db-971f-a1b342a912ea,Protein Powder,2025-03-06,2,1620
+Twitter,Summer Fit,34,c46a2118-12b7-4227-9d8c-a331d8ecf09a,Omega 3,2025-03-19,3,6876
+Twitter,Winter Bulk,34,4656f91d-973a-4615-9bf9-95c19afc7bb5,Omega 3,2025-07-11,2,1010
+Twitter,Winter Bulk,34,ff0a9f37-369a-4382-8d3e-5e8d8d08a3c4,Multivitamins,2025-06-21,1,1568
+Twitter,Summer Fit,34,d5628098-83c0-4fe0-8f4c-bfb7cd7c44d2,Multivitamins,2025-03-17,2,1974
+Twitter,Summer Fit,34,f8a668ff-70f2-4708-ac9a-8ed64230210e,Omega 3,2025-07-06,3,4980
+Twitter,Winter Bulk,34,3919b612-bf1c-47c9-904d-64357543f25b,Creatine,2025-01-28,2,2188
+Twitter,Winter Bulk,34,d125a5ca-29d6-4bd3-8440-89876bf71ddd,Energy Bar,2025-03-18,3,3981
+Twitter,Wellness Week,34,010a2215-c476-4ab0-8f0a-b54cbed5dfa4,Creatine,2025-03-20,2,3234
+Twitter,Winter Bulk,34,750fb2ed-bbf2-4bcd-9871-8ee4db52e29f,Multivitamins,2025-07-08,3,13473
+Twitter,Wellness Week,34,e17d4a4b-7b2f-4913-8420-747e87c95085,Omega 3,2025-05-07,3,10269
+Twitter,Winter Bulk,34,898deeb3-209c-44e3-83fc-208c6043a434,Energy Bar,2025-01-24,1,3599
+Twitter,Summer Fit,34,b00b9bad-dd3e-4fda-a8e3-07da04990526,Omega 3,2025-02-05,1,1955
+Instagram,Wellness Week,35,c4f756d0-d597-425d-9d20-f289f4a485f0,Omega 3,2025-03-11,3,2295
+Instagram,Summer Fit,35,c7a5cc86-01e9-4adb-8683-ff77b64c22ee,Creatine,2025-04-18,2,4618
+Instagram,Summer Fit,35,a074ba96-aec9-4260-8b8f-93240673ed85,Multivitamins,2025-03-21,1,3212
+Instagram,Wellness Week,35,8810a983-9a07-4854-8392-53812f67863d,Protein Powder,2025-03-27,2,6234
+Instagram,Festival Boost,35,75fd006c-b0d7-47c4-8558-501898e3b439,Protein Powder,2025-05-30,3,9750
+Instagram,Wellness Week,35,4de5b2d9-dde8-47da-9ec7-7c46cd01b1a8,Protein Powder,2025-06-30,2,4434
+Instagram,Summer Fit,35,6170af38-61de-40b2-99b6-397f2fd03c18,Protein Powder,2025-05-12,2,5204
+Instagram,Festival Boost,35,3c255f53-1e43-42b4-a500-de8c78a48e5c,Creatine,2025-02-26,1,3661
+Instagram,Festival Boost,35,bad658b9-fe36-4b84-b219-f806966888e2,Creatine,2025-06-12,1,3891
+Instagram,Festival Boost,35,df13300d-9449-4846-adf9-085576930fac,Protein Powder,2025-06-13,2,9946
+Instagram,Wellness Week,35,97819a9b-5d09-410c-8e98-7c5b5f416509,Creatine,2025-01-24,2,4694
+Instagram,Winter Bulk,35,ee0cb5ba-53b5-420c-a0d2-5f9725107362,Protein Powder,2025-01-23,1,773
+Instagram,Summer Fit,35,bd005c1a-6269-4aa1-9dce-5f10eec483d3,Protein Powder,2025-04-23,2,5278
+Instagram,Festival Boost,35,49fe9b47-82b6-4a86-bb90-d921649d2139,Multivitamins,2025-03-31,2,3786
+Instagram,Summer Fit,35,ff9ddcc1-f99a-4cfd-bbe3-726c890ea70b,Energy Bar,2025-04-04,3,3342
+Instagram,Summer Fit,35,95f067d2-1659-482b-b20b-ec3083497d9e,Creatine,2025-01-26,3,13362
+Instagram,Festival Boost,35,55f7634a-e203-4632-8386-c059a1b5793d,Multivitamins,2025-04-02,3,5553
+Twitter,Wellness Week,36,0a7e41ed-7c0d-4a06-8a03-fa6829835c46,Multivitamins,2025-06-03,1,3212
+Twitter,Winter Bulk,36,f48c28b7-64cf-498a-9d9f-9d816457b7fb,Energy Bar,2025-03-01,2,9848
+Twitter,Summer Fit,36,393d2efe-ddc6-458d-b7c8-4683c91d3130,Protein Powder,2025-04-09,2,4890
+Twitter,Wellness Week,36,7e1a2f20-efa9-4f67-a2be-d533a3fe3c2e,Protein Powder,2025-02-09,2,9042
+Twitter,Festival Boost,36,87c57482-86ad-49de-993d-7f0158a6a173,Protein Powder,2025-05-08,2,1062
+Twitter,Wellness Week,36,5f7879c1-b6af-4896-8faf-c31be575a8d8,Protein Powder,2025-07-10,2,8868
+Instagram,Winter Bulk,37,99dfde07-9d68-4f43-9c38-f914c8bad6b9,Protein Powder,2025-07-20,1,1899
+Instagram,Winter Bulk,37,62f89a76-08fb-4045-8599-15814461bc2f,Creatine,2025-04-17,2,2892
+Instagram,Winter Bulk,37,96dd0b28-9131-46bc-abf5-157c25483b19,Protein Powder,2025-04-26,2,9012
+Instagram,Festival Boost,37,f81caee3-455f-47d7-8172-6bc3a92adb40,Multivitamins,2025-07-05,3,14871
+Instagram,Winter Bulk,37,da670fb7-f4d3-4527-bc7d-cbf1531180e4,Multivitamins,2025-02-11,2,7248
+YouTube,Festival Boost,38,1d73b713-1ef6-4c95-882b-d0aed6041849,Creatine,2025-04-07,1,2656
+YouTube,Winter Bulk,38,10fcff60-af2d-4954-9673-6c9b1d0e69db,Omega 3,2025-03-29,2,4706
+YouTube,Summer Fit,38,e7c37011-282e-4f53-a864-e225a6a4f5d0,Protein Powder,2025-05-20,1,1738
+YouTube,Festival Boost,38,e0d32157-58d9-4ed3-97d1-09267ae507a3,Omega 3,2025-05-17,3,9948
+YouTube,Festival Boost,38,a4838b1d-3306-4fd9-82bc-8dcb306c7c30,Omega 3,2025-07-12,1,999
+YouTube,Festival Boost,38,69965bc4-b94f-41ad-aee3-a5bf89deefe6,Omega 3,2025-05-04,2,9772
+YouTube,Winter Bulk,38,30f75b28-3a4a-4f6c-8063-0894adfd4de2,Protein Powder,2025-03-07,1,4401
+YouTube,Wellness Week,38,5f85e4ea-04c0-4613-895f-c33d587ded6f,Protein Powder,2025-05-08,2,1568
+YouTube,Wellness Week,38,b581a740-3ec0-4ee1-944e-271a74d4fe80,Multivitamins,2025-03-26,2,3832
+YouTube,Summer Fit,38,85ae9c6c-6308-4f09-867a-2e6d3e76d7e4,Creatine,2025-07-20,1,1533
+YouTube,Wellness Week,38,941a17a9-87ba-48ee-946c-b12739a1cb64,Multivitamins,2025-03-04,1,4066
+YouTube,Winter Bulk,38,774ae279-5a8e-46ad-af11-0bde47551719,Protein Powder,2025-06-09,3,7836
+YouTube,Festival Boost,38,9def12c9-cf11-44f1-80de-b507eb7dfa75,Omega 3,2025-03-09,1,3679
+YouTube,Festival Boost,38,bc9e15ae-1449-4599-a790-ec3343b976da,Protein Powder,2025-05-20,2,5524
+YouTube,Festival Boost,38,00b4786d-1e98-4b9d-a9a0-aae6365e84dc,Protein Powder,2025-05-26,3,14340
+YouTube,Wellness Week,38,af168313-1949-4299-8c0a-d2787dd4bf3e,Omega 3,2025-03-15,2,3450
+YouTube,Summer Fit,38,6664e63d-fa14-4a7f-bde8-0957e9af672a,Omega 3,2025-04-13,3,3960
+YouTube,Winter Bulk,38,4ecb58fd-ede1-4507-b854-1e5902213c07,Creatine,2025-06-10,1,2843
+YouTube,Festival Boost,38,77600ea8-dabd-4518-a8f4-8acb4a3b73ed,Omega 3,2025-05-27,2,7274
+YouTube,Winter Bulk,39,ebfde395-1417-452e-9d36-7640733a4e26,Creatine,2025-04-27,1,1910
+YouTube,Summer Fit,39,c9d81ba2-869c-4c89-a2a8-1c53708323db,Creatine,2025-05-05,1,3790
+YouTube,Summer Fit,39,380f0531-b6c7-437d-a9e2-9fdb13266488,Creatine,2025-05-24,2,4892
+YouTube,Summer Fit,39,4b455372-3315-4407-8b5d-1bf680451ef0,Energy Bar,2025-06-21,2,7102
+YouTube,Winter Bulk,39,5f45910e-83c2-48a6-abb9-2cac401030ef,Creatine,2025-05-04,2,6094
+YouTube,Wellness Week,39,4d02a0d1-c40a-479a-b0a4-16d585d9defa,Multivitamins,2025-02-27,3,3912
+YouTube,Winter Bulk,39,3623912f-0806-416e-9cb0-72a904f44ef7,Energy Bar,2025-05-28,2,8258
+YouTube,Summer Fit,39,bf028e9a-2ac9-4494-a67d-b570a22ca5b8,Multivitamins,2025-02-27,3,11742
+YouTube,Festival Boost,39,64f49e33-08a5-4be9-8146-7830bd0d88eb,Creatine,2025-02-07,2,4462
+YouTube,Summer Fit,39,baafa419-69d6-4029-b278-17e5fa969fb6,Omega 3,2025-04-28,3,10689
+YouTube,Winter Bulk,39,a59442cb-9067-4347-b95f-952dc4bb997a,Omega 3,2025-05-03,1,1037
+YouTube,Summer Fit,39,35d0f4af-f78a-4d57-9755-34a11d5c7042,Multivitamins,2025-02-07,2,3222
+YouTube,Summer Fit,39,40ca684b-c52e-40d4-ad12-1489034e55bb,Multivitamins,2025-01-25,1,2144
+YouTube,Summer Fit,39,5054ca78-82e6-4a60-9c60-e1af6457ab02,Energy Bar,2025-02-18,1,4239
+YouTube,Winter Bulk,39,219b101b-bf53-4f60-822b-19c1d1e4d06a,Energy Bar,2025-02-25,3,6393
+YouTube,Festival Boost,39,eaacccc1-12d8-4d6b-8930-4e7726e02afb,Protein Powder,2025-06-27,2,9274
+YouTube,Wellness Week,39,c1c4d0bd-79c2-47e2-93e8-bc12996ef69f,Energy Bar,2025-02-09,3,2250
+YouTube,Wellness Week,39,7b9d6522-e0c2-45a8-be7f-47b6ec46ab6c,Creatine,2025-05-08,2,8308
+YouTube,Winter Bulk,39,b82c411b-54a0-42b3-b8d7-ae70adc4f6dc,Multivitamins,2025-05-07,3,10095
+YouTube,Winter Bulk,39,195dd340-8d64-48f8-94a5-27ae97cbc7be,Protein Powder,2025-04-13,2,2480
+Twitter,Wellness Week,40,a154b3ff-7434-4c30-b634-9cb86321d6cd,Multivitamins,2025-01-21,1,1834
+Twitter,Wellness Week,40,d4019852-82a4-4f39-9239-3ebee491efe0,Energy Bar,2025-06-22,3,7032
+Twitter,Summer Fit,40,b6276816-624e-4435-a03c-794263861ab6,Protein Powder,2025-05-02,3,11562
+Twitter,Wellness Week,40,b1084446-4f15-4ff3-85c5-fdd1ea4dcc0b,Omega 3,2025-04-17,2,3166
+Twitter,Winter Bulk,40,26016685-7f37-4711-8641-1848189df6a2,Omega 3,2025-06-01,1,2333
+Twitter,Festival Boost,40,152c34d2-c0a8-4d7e-9672-56276839a619,Creatine,2025-05-29,2,5510
+Twitter,Winter Bulk,40,959a8003-eec1-4172-bd27-c27d5c257ade,Multivitamins,2025-07-02,2,8520
+Twitter,Festival Boost,40,a6125025-7198-44cc-80b6-864dc5399e3b,Omega 3,2025-06-01,2,5950
+Twitter,Winter Bulk,40,d8ab600f-cb21-4cb9-87bc-a48865475418,Omega 3,2025-04-17,1,560
+Twitter,Winter Bulk,40,29eff6ce-931b-4500-a807-3ccef644f9d2,Protein Powder,2025-03-24,3,8445
+Twitter,Winter Bulk,40,52c2a9a4-4dde-4d2c-ac4a-536914a97c5e,Energy Bar,2025-07-12,2,2044
+Twitter,Winter Bulk,40,2a7a5250-6649-41a4-b087-8f0e4873c8a5,Energy Bar,2025-05-09,3,9489
+Twitter,Wellness Week,40,689b2435-7a30-44b8-a8f1-ae9dcca96853,Multivitamins,2025-07-04,3,8841
+Twitter,Summer Fit,40,1bf496bf-008e-46ab-808c-74769df390b5,Omega 3,2025-02-24,3,7404
+Twitter,Wellness Week,40,1915582e-042b-4fa7-81d5-70d7549e7b6e,Protein Powder,2025-03-20,2,6236
+Twitter,Winter Bulk,40,aa9b34f2-b531-4b1e-8ed8-bcdf1258ffc7,Energy Bar,2025-02-12,3,13722
+Twitter,Festival Boost,40,a4873f3d-e086-458f-be88-75597d87d865,Protein Powder,2025-04-19,2,7628
+Instagram,Festival Boost,41,61595183-7d8c-4362-a405-7836e29c2201,Energy Bar,2025-06-07,2,4642
+Instagram,Wellness Week,41,4a74b346-ecf4-4d7a-ac67-625099825c6f,Omega 3,2025-04-05,3,8877
+Instagram,Summer Fit,41,a0d2d4eb-1857-4a4b-a32a-bac2ea817a68,Creatine,2025-07-05,1,2906
+Instagram,Wellness Week,41,e85fdfc8-8ab5-4df1-8fc5-5ad45ac64906,Energy Bar,2025-05-27,1,2618
+Instagram,Wellness Week,41,29a6fea9-cd7e-497f-b825-15f4401dcec9,Energy Bar,2025-05-01,3,3693
+Instagram,Festival Boost,41,8bdf312a-6989-4cba-b8d8-97faa9202c44,Energy Bar,2025-05-05,1,3015
+Instagram,Winter Bulk,41,57b3d683-b106-453f-bac2-ff19c8992fa5,Creatine,2025-02-26,2,5268
+Instagram,Summer Fit,41,de474021-6a84-4282-8cdc-86be7292ae1b,Omega 3,2025-07-06,1,4354
+Instagram,Festival Boost,41,86e51666-b768-4148-89fd-3ad561dfc231,Multivitamins,2025-07-20,3,3249
+Instagram,Festival Boost,41,b237413d-a4ca-4f31-a2c4-145c9fc7d3cf,Omega 3,2025-07-04,3,4443
+Instagram,Summer Fit,41,c36171b2-57af-4263-8187-4166140d4019,Multivitamins,2025-06-27,2,7768
+YouTube,Festival Boost,42,a5af9c1e-edbd-4a21-b291-2872e4d2e57c,Omega 3,2025-07-17,1,3307
+YouTube,Winter Bulk,42,77398234-3af9-4cc7-ac4c-db3c2b13f801,Multivitamins,2025-04-06,2,3346
+YouTube,Winter Bulk,42,f8ad4f6e-21fe-4c65-bd4c-e6029afa65a9,Multivitamins,2025-06-27,1,4494
+YouTube,Summer Fit,42,c1075955-4b86-448d-b7f4-4677d50f927f,Creatine,2025-05-23,2,1950
+YouTube,Wellness Week,42,dc7d529e-df54-4e0a-b8eb-5a1840e08efd,Omega 3,2025-03-22,2,4430
+YouTube,Summer Fit,42,96ccde15-6df0-4341-bf9d-a8e2fb894fec,Multivitamins,2025-07-11,1,4510
+YouTube,Festival Boost,42,6888f536-c0f8-49b1-9066-172e6fadc438,Creatine,2025-05-30,3,12156
+YouTube,Festival Boost,42,33cf814a-f75d-447a-aabf-c0558add5e67,Protein Powder,2025-04-10,2,8820
+YouTube,Wellness Week,42,4fbd59cf-5be8-4bfd-8217-3b5d35cba60f,Energy Bar,2025-02-24,1,4872
+Twitter,Wellness Week,43,385ba9a8-7308-462a-9913-ca79782d362c,Protein Powder,2025-04-15,2,9700
+Twitter,Wellness Week,43,e89c8753-33e5-4024-b1c2-c05dc2358e5a,Multivitamins,2025-02-04,3,1599
+Twitter,Winter Bulk,43,b4a0225b-38ec-4fa5-9c31-d5bc223f8b9c,Multivitamins,2025-06-30,3,9960
+Twitter,Winter Bulk,43,62041657-bdfb-4bab-875d-2a1241e3ec8e,Multivitamins,2025-03-10,1,3642
+Twitter,Winter Bulk,43,42cb6356-8737-46c9-b1d0-01faf2af4465,Energy Bar,2025-05-02,1,874
+Twitter,Winter Bulk,44,c672619a-6feb-4c2f-8deb-73f61dddc694,Creatine,2025-04-02,3,14286
+Twitter,Winter Bulk,44,1e083b0d-af2a-4da8-b8c4-2e472ef0fe47,Creatine,2025-05-16,3,4788
+Twitter,Wellness Week,44,49a5fbcb-93dc-4d3f-a3fe-84e618312c97,Creatine,2025-07-13,2,4086
+Twitter,Wellness Week,44,b530ba0b-4f77-4533-acb4-448a0d25b220,Multivitamins,2025-07-16,1,2371
+Twitter,Wellness Week,44,0398a689-4e82-4621-ac1a-a6dd4a1056b6,Protein Powder,2025-04-01,1,679
+Twitter,Festival Boost,44,f5de8da5-4451-4edc-b0f6-e75cfdeb9e42,Energy Bar,2025-03-01,2,1612
+Twitter,Summer Fit,44,d7929308-26fa-4ff6-a33c-8da41c4cd130,Protein Powder,2025-07-18,3,2694
+Twitter,Summer Fit,44,ffe00aa7-01ae-4588-8c29-46e1463d5318,Protein Powder,2025-04-29,3,1983
+Twitter,Festival Boost,44,34809f57-bfca-497d-be99-b0473920b84b,Protein Powder,2025-03-11,2,8278
+Twitter,Festival Boost,44,050ccd79-5d4b-4f03-a98f-4966504d1645,Multivitamins,2025-04-03,3,7710
+Twitter,Winter Bulk,44,3f9afba6-848c-479f-a108-bd718a8b5390,Creatine,2025-04-23,1,576
+Twitter,Winter Bulk,44,f813b77e-4ba5-4a66-99ce-6bf853000abc,Omega 3,2025-04-07,3,3981
+Twitter,Festival Boost,44,0d2f1cf4-70fb-4252-870e-8ae6b70ba34d,Protein Powder,2025-06-25,3,4869
+Twitter,Winter Bulk,44,2d8c114e-96bd-46f9-bbd8-1ba2b01199c0,Protein Powder,2025-03-07,3,4392
+Twitter,Wellness Week,44,737332b2-4dce-4eb0-9cb2-85150c1afefe,Omega 3,2025-04-08,1,4577
+Twitter,Wellness Week,44,c3ccccac-ffb1-47a9-ae92-7cfcb7faac38,Energy Bar,2025-04-01,1,2654
+Twitter,Winter Bulk,44,258d24f5-c4f9-4298-89d4-6c53c49f706c,Multivitamins,2025-06-28,3,11568
+Twitter,Festival Boost,44,c8c863b0-74ca-4e74-903b-8cb90ae93076,Multivitamins,2025-05-15,1,4990
+Twitter,Winter Bulk,44,2f9d1e05-438e-4306-83b4-4b30bc2d2003,Multivitamins,2025-01-26,3,13311
+YouTube,Summer Fit,45,9ce5a1f9-addf-497c-b8bf-62ac00677a03,Omega 3,2025-06-13,1,1229
+YouTube,Wellness Week,45,d4c143a5-1c46-422e-94a7-653b7f0c55ca,Protein Powder,2025-02-07,3,13641
+YouTube,Summer Fit,45,5edab700-db6d-453f-8a67-cd4b7bb34649,Energy Bar,2025-04-10,3,3342
+YouTube,Festival Boost,45,e65d4228-26c7-4116-abda-39756cbbcc34,Energy Bar,2025-02-07,3,7179
+YouTube,Summer Fit,45,fdac6f73-9e21-4f05-b74e-a7cf398c6a7f,Protein Powder,2025-05-21,2,8606
+Twitter,Winter Bulk,46,1340c1c7-b421-455b-b85e-d3d68cf43fe1,Energy Bar,2025-04-11,1,2880
+Twitter,Summer Fit,46,22915a8a-7f62-4c92-9252-00411b4187e1,Protein Powder,2025-06-17,2,2898
+Twitter,Wellness Week,46,c6a7489d-cf89-439f-8cb1-ca04a94daca2,Energy Bar,2025-02-18,1,1633
+Twitter,Winter Bulk,46,a99d0ca3-206c-4818-aa99-2146e0169974,Protein Powder,2025-02-23,2,8170
+Twitter,Wellness Week,46,39118038-4f06-4ed0-84ab-8fc340fe5797,Protein Powder,2025-01-20,2,6614
+Twitter,Festival Boost,46,a061b429-6f32-4ea0-8738-348c6f88f4e8,Energy Bar,2025-03-10,2,7556
+Twitter,Festival Boost,46,2be8d52a-03b5-43f5-aef0-916260a67e62,Multivitamins,2025-05-15,2,8834
+Twitter,Summer Fit,46,c6145593-90ba-41ce-8239-edcb1800d5be,Multivitamins,2025-03-12,1,1585
+Twitter,Festival Boost,46,03caf486-e591-4c07-8f1c-95e52ecc5b52,Omega 3,2025-04-03,1,3908
+Twitter,Wellness Week,46,264dd13e-69b7-4d44-b5f8-365f139f628d,Omega 3,2025-06-12,3,12267
+Instagram,Wellness Week,47,0011a0e7-69eb-401b-9063-3942a90e62e3,Creatine,2025-05-15,2,1472
+Instagram,Festival Boost,47,0ccc54c1-93a3-4dc2-8fee-01f67d653638,Creatine,2025-03-02,2,2850
+Instagram,Winter Bulk,47,72c663e3-5b76-4046-9030-ed1558c832dc,Energy Bar,2025-03-19,1,1018
+Instagram,Wellness Week,47,e81159ee-ae1c-410a-8805-07d88ac6bbb1,Energy Bar,2025-05-25,1,4799
+Instagram,Summer Fit,47,6a126274-4326-4124-9698-c59f981a6ab7,Creatine,2025-03-25,3,14355
+Instagram,Festival Boost,47,ca3899ee-2bae-45ff-a0d3-25e29529076a,Energy Bar,2025-04-24,3,7608
+Instagram,Wellness Week,47,06a50f8a-3e9c-472b-8de4-7d077d4a5724,Omega 3,2025-06-30,3,10956
+Instagram,Summer Fit,47,be46a1c4-ce13-4432-8b5c-7022f1931e38,Multivitamins,2025-06-05,3,2841
+Instagram,Festival Boost,47,50f55d49-dd1c-451d-bcce-e72e089f1b73,Multivitamins,2025-05-04,3,13032
+Instagram,Winter Bulk,47,16b2e8f5-8a92-46d5-88d3-f7a2f48ef07e,Multivitamins,2025-05-20,1,4527
+Instagram,Summer Fit,47,27e09859-93c4-4e4d-96ad-a0ccad9a6955,Omega 3,2025-06-20,2,5556
+Instagram,Festival Boost,47,60bfa930-d3a5-4cee-9266-dd9ba70a65b0,Multivitamins,2025-05-13,1,3601
+Instagram,Festival Boost,47,354ece55-2ff0-4a6d-b5dc-4a5361053401,Omega 3,2025-07-04,1,4260
+Instagram,Festival Boost,47,829622b0-db01-4772-8675-d3c908e24943,Creatine,2025-07-05,2,2442
+Instagram,Festival Boost,47,fdac7c59-cfdf-456d-80f9-9bbc8569dfeb,Protein Powder,2025-06-25,2,2944
+Instagram,Festival Boost,47,034d6ba2-847e-4c48-9b92-10f8e7b39bd0,Protein Powder,2025-02-22,1,3804
+Instagram,Summer Fit,47,a79d86d4-b5ab-459b-9683-672c71b05670,Protein Powder,2025-04-22,3,14994
+Instagram,Festival Boost,48,a9942653-660d-4a77-b7f1-8684462da8eb,Energy Bar,2025-04-04,3,6582
+Instagram,Wellness Week,48,2226a89f-8ada-408f-9fbf-114a5ffb2cfa,Creatine,2025-02-18,2,1888
+Instagram,Winter Bulk,48,893492f1-ed72-4f2e-82e1-65e702a24f03,Creatine,2025-03-01,2,8750
+Instagram,Wellness Week,48,971d390b-7bf9-465d-8093-7e8d9769e013,Protein Powder,2025-02-17,1,1298
+Instagram,Winter Bulk,48,631d173d-575e-476a-ba17-3cefdec11cd5,Omega 3,2025-05-22,2,6818
+Instagram,Summer Fit,48,ee985678-37cf-496f-828a-561de673be24,Protein Powder,2025-02-17,3,10686
+Instagram,Wellness Week,48,fa26025f-fbc3-4b85-84bc-828ae8615c46,Creatine,2025-02-01,1,4533
+Instagram,Wellness Week,48,bdec403b-6022-4ffb-b9ce-5e4cc3d6c9da,Multivitamins,2025-03-16,1,2583
+Instagram,Wellness Week,48,6f330d88-fdb8-4633-a51d-45264845acde,Creatine,2025-05-15,1,3718
+Instagram,Summer Fit,48,f46b85dd-f8ca-434c-a1c3-afdac808c8e3,Creatine,2025-03-29,1,3268
+Instagram,Festival Boost,48,56994f87-d267-4bca-a8a9-e737ac7d1180,Creatine,2025-01-26,1,1509
+Instagram,Wellness Week,48,69931b8d-982f-4300-96b9-fd6a3eee12e9,Creatine,2025-04-06,3,13890
+Instagram,Summer Fit,48,96b8b82d-1568-4014-9236-7c0f06d75931,Omega 3,2025-04-30,1,4844
+Instagram,Wellness Week,48,fbd79288-bf41-41eb-80c2-bad7d6394009,Omega 3,2025-03-01,2,8912
+Twitter,Summer Fit,49,1b3663e7-9495-43aa-a50e-779242ee2842,Creatine,2025-07-09,3,4653
+Twitter,Festival Boost,49,177e6c00-d712-4d7a-b132-a833bb22b584,Creatine,2025-05-22,3,9408
+Twitter,Winter Bulk,49,7299b8ba-94d3-4589-8eee-a8340962a74e,Creatine,2025-06-19,3,7599
+Twitter,Festival Boost,49,20ca20f7-3f03-4eab-8310-93743643f99d,Multivitamins,2025-03-22,2,5818
+Twitter,Winter Bulk,49,b382d7ce-4238-4541-ae34-eab827cab787,Omega 3,2025-05-18,1,3881
+Twitter,Wellness Week,49,651d09bb-0381-438f-970f-d3d831246c51,Multivitamins,2025-07-16,2,4560
+Twitter,Winter Bulk,49,b7addc82-aa2d-413c-a65c-9294591a8fc0,Multivitamins,2025-03-02,3,8640
+Twitter,Winter Bulk,49,ea5fd262-54d7-4e5c-a645-5d54bc1ff7e9,Protein Powder,2025-07-20,3,5868
+Twitter,Festival Boost,49,4e7fb1b8-7f85-40bd-a7f0-294da9c34d63,Omega 3,2025-07-20,2,8870
+Twitter,Summer Fit,49,31a339ab-095d-46cc-8fce-503b38d7e875,Omega 3,2025-04-18,2,7920
+Instagram,Wellness Week,50,28514f47-8414-4f07-8874-769d69d9e58c,Protein Powder,2025-03-21,1,3620
+Instagram,Wellness Week,50,e2ce7d95-bfd2-40f1-a907-78f30b1a422e,Energy Bar,2025-07-02,3,2889
+Instagram,Winter Bulk,50,4c021b6f-6e6d-4f98-ab42-326d8112e72f,Multivitamins,2025-03-08,1,2847
+Instagram,Wellness Week,50,42222029-9463-4535-b70c-f21864499398,Omega 3,2025-07-05,1,2917
+Instagram,Festival Boost,50,918d9c63-37dd-4208-a0d7-11c3328c7644,Protein Powder,2025-03-09,1,3438
+Instagram,Festival Boost,50,55785707-6d1c-4357-bc17-47bc31e8e5ca,Multivitamins,2025-02-21,3,7011
+Instagram,Summer Fit,50,11a11b1e-d604-4377-915e-d3897ae6ba2b,Creatine,2025-03-11,3,8568
+Instagram,Winter Bulk,50,1f05fd0b-1d85-44a6-8926-c71265db948a,Omega 3,2025-02-22,2,7824
+YouTube,Wellness Week,51,35814e49-8973-4c6a-a1b8-5d7983c4dc04,Omega 3,2025-05-23,1,2558
+YouTube,Winter Bulk,51,96491e5b-609b-42c7-b8bf-bd9b773ca244,Omega 3,2025-07-02,2,4694
+YouTube,Wellness Week,51,cd104d79-ac31-4427-8ee2-367c7e13000d,Energy Bar,2025-05-25,3,6327
+YouTube,Summer Fit,51,6cfa4475-2d23-4fa2-bccf-d5781e084bcd,Multivitamins,2025-07-16,2,3906
+YouTube,Summer Fit,51,99fa3e26-1ec5-47a6-ba33-5c5b2a894d22,Creatine,2025-05-09,1,4709
+YouTube,Winter Bulk,51,db93e9c6-1228-4161-b51e-d6778ac2470a,Omega 3,2025-01-26,1,4010
+Instagram,Winter Bulk,52,c0c32738-9deb-4630-95c5-a008126cb3e9,Protein Powder,2025-05-26,1,1818
+Instagram,Wellness Week,52,40b7cae8-2fd3-4951-825d-8389441d7d00,Protein Powder,2025-06-02,2,8640
+Instagram,Summer Fit,52,934fdd52-caf6-417c-a512-784abca603a1,Omega 3,2025-06-15,1,3142
+Instagram,Festival Boost,52,56723c9c-a0dd-4850-9945-2d3666849aa9,Omega 3,2025-06-02,3,8901
+Instagram,Summer Fit,52,177f3eb2-c39e-4bde-aa04-ea0a2218aae0,Energy Bar,2025-03-23,3,10299
+Instagram,Wellness Week,52,2a54ea16-8101-4a57-ab3a-9f7d6ab81bc9,Omega 3,2025-04-06,3,6903
+Instagram,Wellness Week,52,9b1cc6c3-3594-40a9-b3a3-058ac2dcf499,Creatine,2025-04-27,1,4638
+Instagram,Festival Boost,52,d6f9bf56-4e00-4b03-a615-1b716428256e,Protein Powder,2025-03-02,3,14697
+Instagram,Wellness Week,52,f9788dfd-955a-498e-ab1d-2e0c778c987f,Energy Bar,2025-05-14,2,4624
+Instagram,Winter Bulk,52,fa9cac83-fd38-4fd0-82c2-37c4bf76599b,Multivitamins,2025-03-18,2,6910
+Instagram,Festival Boost,52,aa3bc084-a569-4d24-abe1-98df7c870962,Omega 3,2025-01-21,3,14535
+Instagram,Summer Fit,52,e2cf9744-c36d-47c1-88fa-ac1bd0647ec2,Energy Bar,2025-03-24,3,1716
+Instagram,Wellness Week,52,f441c52e-65b6-4f97-a363-40d9ceb5433e,Protein Powder,2025-03-24,2,4936
+YouTube,Festival Boost,53,9151e9c6-14aa-4bbc-95ae-a1330f477594,Energy Bar,2025-01-29,2,2856
+YouTube,Summer Fit,53,39e69562-ccfa-46e6-a097-0428af02e71f,Omega 3,2025-01-26,3,8448
+YouTube,Festival Boost,53,04f64764-0801-4715-a0ed-2b66cc6e2622,Creatine,2025-04-02,2,9426
+YouTube,Wellness Week,53,b6385f1c-1f69-4908-97be-aee3b15e7f2a,Energy Bar,2025-03-01,1,2928
+YouTube,Summer Fit,53,2abe5ec8-6a52-4e00-a148-90943dce3bc6,Multivitamins,2025-01-30,3,3522
+YouTube,Summer Fit,53,5e686e7a-39f4-4a79-ad5a-3c6e028a62cd,Protein Powder,2025-06-29,3,14604
+YouTube,Festival Boost,53,0bbb6362-5f3f-488d-9048-85fd475320ab,Protein Powder,2025-03-28,1,2246
+YouTube,Festival Boost,53,7dc32d03-0a96-4f25-88b8-13346a1a493c,Protein Powder,2025-04-26,1,4905
+YouTube,Summer Fit,53,7efdf7f9-2c90-4cee-b485-0825073c9236,Creatine,2025-02-21,3,5277
+YouTube,Summer Fit,53,2a5f3be7-c4da-4c7e-88ba-cf436294ea21,Protein Powder,2025-02-25,3,9651
+YouTube,Wellness Week,53,e78e2895-1f09-43b3-a5ce-3226191f2776,Energy Bar,2025-05-29,1,944
+YouTube,Wellness Week,53,297c7a32-0336-4a4a-81b0-bb4fbfa546e2,Energy Bar,2025-03-28,3,3231
+YouTube,Festival Boost,53,ffbe70d6-29b3-456a-832e-2cd9456888f8,Creatine,2025-01-22,2,7356
+YouTube,Summer Fit,53,a3591808-227a-4d85-a063-ccd5ba57582d,Creatine,2025-04-02,2,6182
+YouTube,Summer Fit,53,aa24cafe-4bcd-4504-bab5-58b61038f707,Omega 3,2025-05-17,3,4407
+Twitter,Summer Fit,54,6a980dc4-0450-4d42-8ffe-c02b3da19c7d,Energy Bar,2025-01-25,3,2616
+Twitter,Winter Bulk,54,2475c0bd-3e02-436e-af19-ddf7c165e0f5,Energy Bar,2025-03-20,3,4107
+Twitter,Winter Bulk,54,1a8cb29b-49b7-43bd-a6c7-0225d98b8610,Creatine,2025-02-18,3,3624
+Twitter,Summer Fit,54,634be1fa-71b4-45ec-9180-27f4ed97f8ad,Creatine,2025-01-24,2,7472
+Twitter,Wellness Week,54,6986a903-6185-4309-bd48-bc0e80f579f8,Multivitamins,2025-05-07,1,4870
+Twitter,Winter Bulk,54,55feaf89-0060-4ce9-a6c5-d3e2a0c52e62,Multivitamins,2025-05-28,3,11109
+Twitter,Summer Fit,54,878d0ddd-4a72-4fc1-a62e-af65a2d86eba,Omega 3,2025-06-08,2,7112
+YouTube,Summer Fit,55,c3b01877-e030-4c04-8be5-b94ca1404692,Omega 3,2025-05-27,1,842
+YouTube,Summer Fit,55,6ef713a3-7c42-4a93-986a-d6ff73590821,Energy Bar,2025-02-24,3,11184
+YouTube,Wellness Week,55,169ecd19-d1ca-4b4f-8988-921a588c695b,Creatine,2025-03-21,1,3316
+YouTube,Wellness Week,55,e582b486-a809-4106-b06f-2d1eb5cdd004,Multivitamins,2025-02-26,3,14094
+YouTube,Winter Bulk,55,aadd2b65-eb72-4752-a68d-4bef0ce8a684,Multivitamins,2025-03-20,1,2308
+YouTube,Summer Fit,55,72030e47-9756-4cc3-ae00-bc2dd809856f,Omega 3,2025-03-08,1,1985
+YouTube,Winter Bulk,55,889b69df-7529-4099-a48b-49725fb06556,Protein Powder,2025-05-13,2,2198
+YouTube,Wellness Week,55,eaecf405-aa17-46c3-90e8-1fc2ca723fe7,Omega 3,2025-05-07,2,2608
+YouTube,Winter Bulk,55,4d39da3f-846c-4eef-8414-29dac372af12,Multivitamins,2025-02-23,2,6420
+Twitter,Summer Fit,56,6303ad4e-e685-4eb4-a38c-b699fa7f55dc,Multivitamins,2025-01-22,1,2835
+Twitter,Festival Boost,56,6dd6e6cb-4294-44ec-a1fe-357047ad8eb9,Energy Bar,2025-03-08,2,8960
+Twitter,Wellness Week,56,293a103c-412f-4463-9d00-6c217b2a95e3,Omega 3,2025-03-10,3,9012
+Twitter,Winter Bulk,56,0fad1dc2-4153-4003-8127-e7ef822c746e,Creatine,2025-03-19,3,10455
+Twitter,Winter Bulk,56,49ab313e-ee0e-449f-8795-9306de901d1a,Multivitamins,2025-04-27,1,539
+Twitter,Winter Bulk,56,47b3bd04-b087-4b67-90b5-db0e1a0d7a8b,Energy Bar,2025-02-21,1,4072
+Twitter,Festival Boost,56,6ee609d1-4b4b-4d95-ae0a-bc2454054546,Creatine,2025-06-20,1,3216
+Twitter,Winter Bulk,56,308105bb-4ce4-4582-915a-38048190acf0,Creatine,2025-03-27,2,6876
+Twitter,Wellness Week,56,faeedd1c-d411-4223-b268-380d74b9ff8f,Omega 3,2025-03-16,3,4173
+Twitter,Wellness Week,56,3f4e4071-7651-4bb5-9933-f2ef2012aa4c,Omega 3,2025-02-20,1,2798
+Twitter,Summer Fit,56,84ac60d4-c899-484d-8a9e-a3b61eb79a83,Protein Powder,2025-03-09,1,2656
+Twitter,Summer Fit,56,410346f5-2bb6-415b-be17-ee5702e5a2c0,Omega 3,2025-07-03,1,4654
+Instagram,Summer Fit,57,e323ccf0-e163-469b-969f-12b1e556f71e,Omega 3,2025-03-23,3,6726
+Instagram,Festival Boost,57,441cebef-8bde-4ac1-bffd-ad101f1f2a2f,Multivitamins,2025-02-20,2,9904
+Instagram,Wellness Week,57,2bb4fc7f-c03c-4090-b9d4-78c4561ca3d6,Omega 3,2025-03-31,2,7430
+Instagram,Wellness Week,57,8a5b9e8b-3392-417b-90f2-d6e1683d6131,Creatine,2025-03-12,3,8649
+Instagram,Summer Fit,57,8a04c67a-8a62-4bee-ad5b-43dd0d7bea32,Creatine,2025-02-15,3,14043
+Instagram,Summer Fit,57,44433a9e-6447-4d2d-9662-482820aebca5,Multivitamins,2025-07-20,2,9226
+Instagram,Wellness Week,57,e4c4e371-113d-4521-b26d-a70c3d20ad08,Creatine,2025-04-04,3,5574
+Instagram,Wellness Week,57,e56e8422-b63c-4faf-9298-cc6ddc97733f,Creatine,2025-05-03,1,1967
+Instagram,Wellness Week,57,b0c905b9-fa66-42f6-a625-aab0c22fd248,Creatine,2025-05-11,2,1662
+Instagram,Winter Bulk,57,4acda7de-d794-4ecb-a019-128020c20324,Energy Bar,2025-03-01,1,1014
+Instagram,Wellness Week,57,0bbccda9-c482-4890-a8c4-e7d4c62063e0,Omega 3,2025-07-02,1,850
+Instagram,Festival Boost,57,81b4cb64-fa83-428b-b6e3-c40a1567597a,Creatine,2025-02-12,2,7358
+Instagram,Winter Bulk,57,bad51de9-3e9c-4b88-8b65-00f926fafd45,Protein Powder,2025-03-25,1,826
+Instagram,Winter Bulk,57,9ef0b0c9-b1f6-4a33-9312-d9d42fe46a30,Energy Bar,2025-02-15,3,14313
+Instagram,Wellness Week,57,56e11156-2376-40c2-a420-a33742832a49,Creatine,2025-05-20,3,14877
+Instagram,Winter Bulk,57,46d0cf5f-c2dd-492e-931a-ff79c87de6d3,Omega 3,2025-01-22,3,10800
+Instagram,Winter Bulk,57,c9e32496-ea61-4d4d-933e-1668ff7199a0,Creatine,2025-02-01,3,3411
+Instagram,Winter Bulk,58,1a463aa4-7b54-41ee-a2c5-5b80d7cfbb99,Energy Bar,2025-04-26,3,11472
+Instagram,Summer Fit,58,3fa3fd1f-53ef-46c7-aca1-6745d2ee6a2e,Omega 3,2025-02-26,2,8898
+Instagram,Wellness Week,58,df132384-2968-4f47-8158-1c54bab12581,Multivitamins,2025-03-24,1,4103
+Instagram,Winter Bulk,58,9a93fae2-19cc-4ec5-9343-41f45014b6ce,Multivitamins,2025-04-03,1,4715
+Instagram,Wellness Week,58,f7d75abc-21b4-410b-b12a-fec864d2961a,Energy Bar,2025-07-09,1,2031
+Instagram,Wellness Week,58,61b85598-b282-452f-9c3c-d8776df1b010,Creatine,2025-05-04,3,4407
+Instagram,Festival Boost,58,ec65b9ae-1a50-435a-8660-1adf43211c2b,Creatine,2025-05-07,2,2856
+Instagram,Wellness Week,58,8bdb5d41-59af-42c0-a404-87c05c46ca88,Creatine,2025-07-03,2,4452
+Instagram,Summer Fit,58,067dac0c-f371-4482-a902-e46b2be78890,Multivitamins,2025-07-06,1,2496
+Instagram,Wellness Week,58,145647fc-9362-4658-87ee-feb9e1308a31,Omega 3,2025-03-20,3,5457
+Instagram,Summer Fit,58,7be6e16b-3a10-4618-8052-49618efdc621,Multivitamins,2025-04-21,1,1703
+Instagram,Festival Boost,58,980b7bd5-3297-4789-8f6a-84d5a3a88318,Omega 3,2025-07-17,2,3948
+Instagram,Summer Fit,59,e8b216fa-1b89-48fc-9d75-7a34aedbf694,Multivitamins,2025-06-07,3,8466
+Instagram,Festival Boost,59,c54bcc18-5eca-415b-bfe8-0db45a5e6c7c,Multivitamins,2025-05-24,2,8722
+Instagram,Wellness Week,59,570dbb11-e00b-4dd0-91c1-238baa31abc4,Omega 3,2025-03-13,1,3865
+Instagram,Winter Bulk,59,90785775-9420-4fb3-a339-f86ee1496ea5,Multivitamins,2025-07-16,1,4684
+Instagram,Festival Boost,59,2958c1ad-5eb0-4416-a689-8cdd221d6d31,Omega 3,2025-06-24,3,9921
+Twitter,Festival Boost,60,8e34c531-008a-45ec-b0f6-09d2cb72140b,Multivitamins,2025-02-25,1,3598
+Twitter,Wellness Week,60,544da422-956f-44a3-ba8c-ab099ecbbb81,Omega 3,2025-06-06,1,635
+Twitter,Wellness Week,60,f3cc2a42-e876-4615-b0cf-54993b9886e9,Omega 3,2025-02-24,3,11814
+Twitter,Festival Boost,60,0e48ae05-78b2-4889-b23e-1e6ff45832a0,Omega 3,2025-01-22,1,1953
+Twitter,Summer Fit,60,060fc27a-5950-4b25-8bfa-2e02529c1783,Protein Powder,2025-07-08,3,2457
+Twitter,Summer Fit,60,573949a6-23ac-476f-81e1-050f30dfdb8d,Creatine,2025-01-26,2,3134
+Twitter,Winter Bulk,60,fbcf0c87-f6bc-4c4f-8cf4-b810edb65bb3,Protein Powder,2025-04-07,3,11838
+Instagram,Festival Boost,61,8a143f12-429b-415e-9801-bbbc5c1236fd,Energy Bar,2025-01-25,1,4449
+Instagram,Festival Boost,61,253a0706-1d5b-4f30-9314-d728175dff5e,Multivitamins,2025-05-30,3,3900
+Instagram,Wellness Week,61,8b04f84c-ef4d-4df9-a307-d48489370e6e,Protein Powder,2025-05-08,2,8816
+Instagram,Festival Boost,61,65f7db36-984b-4e0c-b56f-736071add41e,Energy Bar,2025-07-14,2,9908
+Instagram,Summer Fit,61,7f1188e6-414e-4706-83ea-1566998ade05,Omega 3,2025-05-26,1,544
+Instagram,Summer Fit,61,b07249be-22ba-4909-bc49-9eb6d1c923e0,Creatine,2025-06-28,3,4395
+Instagram,Winter Bulk,61,a16bb0b4-6869-4d2f-b9f8-07651abfe0f8,Creatine,2025-04-07,3,6546
+Instagram,Wellness Week,61,090dbe80-a6ca-4839-8728-ed161212679d,Creatine,2025-02-24,2,2746
+Instagram,Winter Bulk,61,5444f547-51e3-461a-876c-88abfd37b7b9,Omega 3,2025-05-04,3,7731
+Instagram,Winter Bulk,61,df0dbaca-8fe0-4c24-8cd0-b3f2a63d72a8,Creatine,2025-06-04,2,6990
+Instagram,Festival Boost,61,8e155d25-cc43-40e5-bcc9-f08ffd74e377,Multivitamins,2025-01-30,1,3885
+Instagram,Winter Bulk,61,7a08ebbb-505a-4147-ad27-3a8af97af4e4,Energy Bar,2025-04-09,2,8924
+Instagram,Festival Boost,61,b11ac162-703d-472c-9512-7c16944bc0b4,Multivitamins,2025-03-23,3,9960
+Instagram,Wellness Week,61,cd4de6f3-db5c-413b-93a0-3cdbf1b22fb3,Creatine,2025-06-22,3,4425
+Instagram,Summer Fit,61,01eaa75a-07b7-45e5-b381-d2135c6d1519,Multivitamins,2025-06-23,3,5475
+Instagram,Winter Bulk,61,26871a70-93c0-425f-ad43-0649a747e719,Omega 3,2025-06-14,3,11343
+Instagram,Wellness Week,61,090e099c-a57c-4d0d-ac2e-8e908423bef9,Creatine,2025-03-16,3,2778
+Instagram,Summer Fit,61,9d8a3083-2be3-4672-b292-1ee4d6caa045,Multivitamins,2025-02-28,3,1629
+Instagram,Summer Fit,62,515f351e-a477-446f-98e9-951852734d05,Protein Powder,2025-04-29,3,12198
+Instagram,Winter Bulk,62,4ad8d5bd-d5e7-4910-be0a-4cb99890b055,Protein Powder,2025-03-21,2,4632
+Instagram,Festival Boost,62,023acae6-a91c-4ff0-83d2-2ff1e6135cef,Creatine,2025-02-03,3,2427
+Instagram,Winter Bulk,62,4cc438e5-dc41-44a3-9e4e-85d47dd406f2,Omega 3,2025-07-04,3,14304
+Instagram,Festival Boost,62,3cc78b82-0e82-495f-addb-d9abef61391d,Creatine,2025-02-16,1,1935
+Instagram,Winter Bulk,62,59edd52e-3fb9-4587-b727-39e95d0539cc,Multivitamins,2025-04-06,1,2152
+Instagram,Wellness Week,62,2f126255-8fef-4ad3-87a4-863fc13ae991,Omega 3,2025-03-03,1,4682
+Instagram,Winter Bulk,62,4abc6b47-fe82-43ce-87f3-049b5adc236d,Multivitamins,2025-04-14,1,795
+Instagram,Wellness Week,62,8abd6519-f851-464d-a86b-266cce8fb2b4,Protein Powder,2025-04-18,3,1506
+Instagram,Winter Bulk,62,32b6a2a0-697e-42ec-a913-726d36f05bff,Creatine,2025-03-05,2,7544
+Instagram,Summer Fit,62,232b322b-6e00-40f1-a7bc-e2118882fe59,Protein Powder,2025-04-09,2,4280
+Instagram,Winter Bulk,62,de002cfd-0e4c-4109-9cff-fb20f9c7c927,Energy Bar,2025-01-22,1,2830
+Instagram,Wellness Week,62,f148c13f-b75a-4316-a79f-c96cd26e0447,Creatine,2025-07-03,2,4706
+Instagram,Winter Bulk,62,8bd36dc7-1c83-40ea-b155-9051d55c35e9,Multivitamins,2025-03-01,2,1076
+Instagram,Summer Fit,62,b94bf3a8-981c-4cea-92e2-d60aab4a60b8,Omega 3,2025-06-20,2,9294
+Instagram,Winter Bulk,62,c650f296-e515-421b-9c87-2d64adf06db9,Energy Bar,2025-03-21,1,4621
+Instagram,Winter Bulk,62,570f7769-f0a0-490d-84ae-4cfce7bf798b,Omega 3,2025-03-26,1,4704
+Instagram,Festival Boost,62,c1901a17-5d03-4788-8617-b75fd78015f6,Creatine,2025-02-20,3,7647
+Instagram,Wellness Week,62,0bfd6161-c99e-4796-b666-adeab8d63953,Energy Bar,2025-05-29,3,13383
+Instagram,Summer Fit,62,7e8f03ec-bead-4bc3-9764-b598adb79dc3,Creatine,2025-07-16,2,8548
+Instagram,Festival Boost,63,a68c9bdb-950b-4c41-b0fc-cc0eba6b0aa5,Multivitamins,2025-06-04,2,2106
+Instagram,Winter Bulk,63,7b1cb0de-f411-427d-bc0c-cf98400a0a08,Creatine,2025-07-20,3,7149
+Instagram,Summer Fit,63,68b7ae7b-5bb3-49d3-a453-fd062c9cd3c2,Energy Bar,2025-05-05,2,9462
+Instagram,Summer Fit,63,00e85a1f-57e9-4967-bd5a-21ef6e36e208,Creatine,2025-06-07,1,2853
+Instagram,Summer Fit,63,fa372336-7e38-4d68-ba5e-03c6421f9d81,Omega 3,2025-03-30,3,9903
+Instagram,Winter Bulk,63,00b3d00d-14ce-411e-9efc-a15036721043,Energy Bar,2025-01-27,1,4403
+Instagram,Wellness Week,63,ebb1a91b-69eb-4b4b-848c-69819e1852a1,Multivitamins,2025-05-18,1,2704
+Instagram,Wellness Week,63,90e25bd7-841f-42b7-a15a-e016a08e053d,Multivitamins,2025-03-25,2,4270
+YouTube,Wellness Week,64,2d707098-a85e-4e28-ac06-236dac3b3a58,Multivitamins,2025-07-07,1,2377
+YouTube,Wellness Week,64,e56aa9f0-3ced-4a91-a49c-eff026d98be6,Protein Powder,2025-04-12,3,10248
+YouTube,Festival Boost,64,51b3c22c-9a79-44cb-b126-f8dcf6187613,Omega 3,2025-04-02,1,1142
+YouTube,Summer Fit,64,79a019d4-22a6-4206-a315-6f7eddfaba08,Creatine,2025-03-08,1,4935
+YouTube,Festival Boost,64,33723c84-aca8-4ef6-ba93-9a343ae0a30c,Omega 3,2025-05-26,2,6166
+YouTube,Wellness Week,64,9b929682-7982-45ce-a7ac-0584399f90a0,Omega 3,2025-05-16,2,9040
+YouTube,Wellness Week,64,0b1e2713-7251-4da2-806a-e33f28326ef1,Omega 3,2025-03-10,2,7518
+YouTube,Festival Boost,64,e1c628ab-014b-4773-b3ff-c044b2c15459,Creatine,2025-06-28,1,943
+YouTube,Winter Bulk,64,d743e7a9-4dc2-4ffb-9708-c47b57ebd77b,Creatine,2025-07-18,3,2298
+YouTube,Festival Boost,64,411b2170-ddda-443d-87fc-4ab20e18e877,Protein Powder,2025-02-08,3,5793
+YouTube,Festival Boost,64,2716aab6-e41c-463a-8ded-0c2a6cd92f45,Energy Bar,2025-05-06,3,14235
+YouTube,Summer Fit,64,cf23312e-dbb4-459b-b926-d10a83498cf3,Multivitamins,2025-02-07,3,1704
+YouTube,Winter Bulk,64,4460e0c3-d68b-4a8e-b9bd-610cbeb93202,Energy Bar,2025-05-10,2,2650
+YouTube,Winter Bulk,65,a17c1992-32fd-4a31-aaa7-f60037885567,Multivitamins,2025-06-30,1,4993
+YouTube,Winter Bulk,65,080e77ad-6d1d-45ec-b3aa-2d4565922928,Energy Bar,2025-05-12,2,8722
+YouTube,Festival Boost,65,59a31d00-b1c6-421b-9b87-717da943eff1,Multivitamins,2025-02-05,1,4585
+YouTube,Winter Bulk,65,1c639d9b-cd2e-4cc0-b4fb-244d85f4f78b,Creatine,2025-05-04,2,7098
+YouTube,Wellness Week,65,edf97519-e099-47d2-95e1-06b7c179c332,Omega 3,2025-04-27,2,8384
+YouTube,Summer Fit,65,dfdec63d-abb1-482e-a959-7394eb430358,Energy Bar,2025-02-01,1,2372
+YouTube,Festival Boost,65,493d6096-d0b7-40a0-930d-71ff905a9e6e,Multivitamins,2025-06-22,1,4040
+YouTube,Festival Boost,65,8a68c194-c626-456f-b5b9-e85904c773a8,Protein Powder,2025-02-27,1,1725
+YouTube,Festival Boost,65,75f490c9-9f5e-4217-a0a2-3b8950a87cb0,Multivitamins,2025-07-01,1,3953
+YouTube,Winter Bulk,65,91fe5b58-010d-4c20-b753-8943e39747ff,Creatine,2025-06-25,3,14205
+YouTube,Summer Fit,65,7f191a3d-f78b-4ff1-b87c-50e244241d06,Creatine,2025-04-28,2,5110
+YouTube,Summer Fit,65,7e1d81bc-44dd-4b78-8a02-f17d85636a06,Multivitamins,2025-05-17,1,1838
+YouTube,Summer Fit,65,2d11f6fc-f056-4b12-b562-4cb85d3e459f,Creatine,2025-06-23,2,8806
+Instagram,Winter Bulk,66,5d69273e-8450-4048-94a6-9152e7d1c0e0,Omega 3,2025-03-30,2,6914
+Instagram,Winter Bulk,66,65fb0041-84a2-4831-9ac4-aea16c668271,Protein Powder,2025-04-14,3,7833
+Instagram,Winter Bulk,66,6fe12da3-720d-4ad9-b425-ee2d804ec570,Omega 3,2025-06-01,2,2986
+Instagram,Wellness Week,66,7edd3e3e-a977-4ff5-9d2d-a5bdf741e1c8,Energy Bar,2025-04-18,1,4910
+Instagram,Festival Boost,66,4a733e22-57c1-4172-bbb6-6000be5c2067,Creatine,2025-04-29,2,6326
+Instagram,Winter Bulk,66,50b1265a-db15-432b-9cf2-fcc3046b815e,Creatine,2025-02-27,1,3621
+Instagram,Wellness Week,66,d47547c3-5385-4702-81c3-f7c3199e1f23,Energy Bar,2025-02-13,3,5058
+Instagram,Summer Fit,66,1ac7df1b-e9e8-42a8-b66b-92e4c52c1761,Protein Powder,2025-02-23,2,7630
+Instagram,Wellness Week,66,38f9fd8f-171c-4e6f-9c4b-fbe00430f985,Energy Bar,2025-04-11,1,3314
+Instagram,Winter Bulk,66,409bed05-99bf-42f5-970b-e0b8b0a72db0,Omega 3,2025-05-21,2,5772
+Instagram,Winter Bulk,66,0f7855ba-0eb8-4a79-8842-b4ef916a4279,Creatine,2025-06-27,3,11217
+Instagram,Festival Boost,66,58f3e7d6-38cf-4b36-b411-52261af5f826,Creatine,2025-07-20,2,9534
+Instagram,Summer Fit,66,7ae2332c-f21b-44a6-be68-dbdfc2cca457,Multivitamins,2025-04-08,1,2006
+Instagram,Winter Bulk,66,d04cdae3-bed9-4467-bbe8-eb1e6d2b1b68,Protein Powder,2025-07-04,3,7266
+Instagram,Festival Boost,66,76e5f34c-185b-4984-a438-003c3bd2734b,Protein Powder,2025-06-07,1,1867
+YouTube,Summer Fit,67,863177d0-45ba-44c9-94b1-ad16db82f332,Protein Powder,2025-05-17,1,4376
+YouTube,Summer Fit,67,bacfbcac-5c0a-4553-8377-94aef4f0c679,Protein Powder,2025-05-17,2,9584
+YouTube,Summer Fit,67,865968ad-f19e-407c-ac93-a1ca62a903e4,Creatine,2025-02-02,2,3544
+YouTube,Wellness Week,67,54203daf-30b4-47f9-a756-31ad795b59c0,Energy Bar,2025-02-15,2,4756
+YouTube,Wellness Week,67,cb459c68-f8a3-4090-9f24-a137adb3ed90,Omega 3,2025-07-05,2,3070
+YouTube,Summer Fit,67,45350bc8-74ed-4ca9-a0c6-cb7c8a27d08d,Energy Bar,2025-03-17,1,734
+YouTube,Festival Boost,67,070cb890-0344-4fc2-9f98-12d079d6b0d6,Omega 3,2025-07-19,2,8800
+YouTube,Festival Boost,67,97d70c82-1cce-47a9-8662-dd8534fe001a,Multivitamins,2025-04-01,2,9986
+Twitter,Festival Boost,68,20c931f7-e057-4b86-a36d-a7793e2dcdd1,Omega 3,2025-06-10,3,12720
+Twitter,Winter Bulk,68,a534e2e9-2a92-4242-a608-2ebad91b0b13,Energy Bar,2025-05-03,3,14616
+Twitter,Wellness Week,68,2326bca9-d0f4-4ee7-b9de-76d72aa2687f,Protein Powder,2025-07-02,2,9840
+Twitter,Winter Bulk,68,2416dfab-5b1c-47b1-972e-af9ce42bf7b9,Creatine,2025-05-09,2,6044
+Twitter,Winter Bulk,68,3e6845a3-9ffe-4ec6-8a6f-b2f566953fa5,Protein Powder,2025-05-20,2,3550
+Twitter,Wellness Week,68,c18346af-f208-450a-b3ce-f96a88cbef78,Energy Bar,2025-02-26,1,4787
+Twitter,Summer Fit,68,a9898432-c06a-43c1-9588-6d270e3cc677,Creatine,2025-02-26,2,8686
+Twitter,Summer Fit,68,88007daa-10cf-4684-906c-001b55fc83c6,Creatine,2025-07-07,2,5908
+Twitter,Summer Fit,68,6776d16a-1bc8-4558-b276-cda99adb9215,Omega 3,2025-03-08,2,4788
+Twitter,Festival Boost,68,67dd3e6a-c192-4d28-b858-0b458fae4502,Omega 3,2025-04-25,2,4088
+Instagram,Wellness Week,69,7e8397bb-9774-4a04-9200-b4f3e73912d9,Creatine,2025-07-01,2,5094
+Instagram,Winter Bulk,69,61cbe985-69f8-4c16-8444-d3ae9e734469,Protein Powder,2025-01-30,2,4614
+Instagram,Winter Bulk,69,eb3c6926-8502-455e-bf51-ec487b9a3e8f,Energy Bar,2025-05-26,2,4924
+Instagram,Winter Bulk,69,c2ade19b-21fd-4555-93ef-605e4e4a97a1,Creatine,2025-03-20,3,14571
+Instagram,Wellness Week,69,7d5c5217-0bc0-4519-9bea-40eec157c067,Multivitamins,2025-05-14,1,1060
+Instagram,Festival Boost,69,9696931d-bd98-4fbc-9249-7b14ac93025b,Omega 3,2025-05-17,2,2808
+Instagram,Festival Boost,69,dc843085-4fa0-413f-9c88-3377775fdea9,Multivitamins,2025-05-25,2,5458
+Instagram,Wellness Week,69,2b0c4666-3c21-49b1-aa9b-4004c5b5daf1,Protein Powder,2025-04-21,2,1316
+Instagram,Wellness Week,69,abf3fa81-3661-4ad5-ba07-dc8e5114ff50,Protein Powder,2025-02-24,3,2043
+Instagram,Wellness Week,69,2e987837-4153-4bba-b3e2-c189ddc5cb02,Creatine,2025-03-24,2,5410
+Instagram,Wellness Week,69,46626a7d-ea06-4b62-81a4-5b6f7d810cbe,Protein Powder,2025-04-05,3,1701
+Instagram,Festival Boost,69,1d3dc667-8fd4-4bf0-95d1-13c6c4035bd3,Multivitamins,2025-05-03,1,620
+Instagram,Winter Bulk,69,a32ee6f7-cf69-48a0-b06f-be3f9ee5801e,Creatine,2025-02-10,2,7884
+Instagram,Summer Fit,69,d63e5639-ba33-43e4-9647-543d7042f612,Energy Bar,2025-02-17,2,8596
+Instagram,Summer Fit,69,0364294a-2e74-4b16-a3a1-cbaca3abf215,Energy Bar,2025-03-09,1,1696
+Instagram,Festival Boost,69,087042ad-cc8f-4021-adcd-e9440899bad4,Multivitamins,2025-05-23,2,2168
+Instagram,Festival Boost,69,c1a45f8a-2c9e-497d-8963-4cd1efd04df6,Protein Powder,2025-02-13,1,2548
+Instagram,Festival Boost,69,c31bc136-e0d5-4545-84de-232e14ebbd27,Creatine,2025-04-12,1,2539
+Twitter,Wellness Week,70,473e0d78-d248-4927-bf07-f72dcfbe461f,Creatine,2025-06-30,3,2322
+Twitter,Wellness Week,70,6fd68ad8-d1d5-42fd-a980-f2e9c8d5908c,Creatine,2025-03-13,3,3807
+Twitter,Winter Bulk,70,4c1c6202-b8f3-4dc3-b149-81a5e66ff942,Multivitamins,2025-04-30,2,6112
+Twitter,Summer Fit,70,a47c70dd-5bf7-4f32-b313-2b6370988132,Energy Bar,2025-02-02,3,2535
+Twitter,Wellness Week,70,353fec3f-0782-4c31-a270-b9f3fe80075e,Energy Bar,2025-03-19,2,5894
+Twitter,Summer Fit,70,8c3f3c4c-9680-48c6-8cc1-3c70654ec209,Multivitamins,2025-04-22,1,2284
+Twitter,Winter Bulk,70,fd05c002-0d39-4903-a786-8da72e0c560e,Protein Powder,2025-04-16,3,12168
+Twitter,Summer Fit,70,c9df7c22-5999-47f1-a044-aca6e734713b,Creatine,2025-03-17,1,2761
+Twitter,Summer Fit,70,15109dd2-13e4-4bec-a30d-97495b9bb784,Omega 3,2025-07-18,1,573
+Twitter,Wellness Week,70,d765d349-6b77-43d3-92c0-3dd27afbcadc,Energy Bar,2025-05-01,3,13179
+Twitter,Wellness Week,70,67e5d9a3-61de-414c-bb15-489b1062b53c,Creatine,2025-04-09,1,2537
+Twitter,Summer Fit,70,32505a61-4124-4952-863a-7341bb17d978,Protein Powder,2025-02-15,1,3272
+Twitter,Summer Fit,71,b48f5497-7d9e-4517-81ea-ec8c3357bb77,Multivitamins,2025-03-14,3,5280
+Twitter,Winter Bulk,71,0ea93c7e-feea-4e20-ae9e-6baec49bfea8,Omega 3,2025-06-05,2,4812
+Twitter,Festival Boost,71,82106892-07af-4f9a-b684-a9fea6b705a1,Multivitamins,2025-04-17,3,10035
+Twitter,Winter Bulk,71,1703f2a5-587b-4c4d-98d6-292641f15b87,Multivitamins,2025-03-27,1,3594
+Twitter,Festival Boost,71,8371e1a5-cc1f-44ae-8bec-fc0d9ac84c53,Creatine,2025-04-29,2,1646
+Twitter,Festival Boost,71,09ab06f9-b19b-4783-8ba4-dee678ab6ed3,Multivitamins,2025-01-24,3,8742
+Twitter,Winter Bulk,71,5f309433-15ea-422a-9086-9dbf62f491e9,Energy Bar,2025-05-11,3,6084
+Twitter,Winter Bulk,71,888afa8f-f0b7-4e8c-a4e5-d0342b0253cb,Omega 3,2025-06-14,3,13011
+Twitter,Summer Fit,71,abb0050b-0e3b-48d9-816a-b47fa252c46a,Omega 3,2025-02-04,3,5439
+Twitter,Winter Bulk,71,ddf0c587-d47d-4b43-bce6-130e640ec07c,Energy Bar,2025-05-27,1,4181
+Twitter,Festival Boost,71,b04f06df-d6d4-4747-aef1-1caceb5af256,Protein Powder,2025-03-12,3,10521
+Twitter,Festival Boost,71,0376738b-f2cf-4ad7-ae17-e31584c1d234,Multivitamins,2025-02-16,3,13932
+Twitter,Wellness Week,71,52ba64cd-5732-4d95-8906-cefe404ad1f8,Energy Bar,2025-04-05,1,3482
+Twitter,Festival Boost,71,7e8e2d9e-9d0b-45c1-a9c1-8e72dc65644e,Multivitamins,2025-03-26,3,3054
+Twitter,Wellness Week,71,d65b9e4d-600e-4990-80a4-7a6fe5977110,Omega 3,2025-05-03,3,13725
+Twitter,Festival Boost,71,6689beec-3008-490c-bcdb-9e50ab84b03c,Energy Bar,2025-03-08,2,6284
+Twitter,Summer Fit,72,5ecd3256-5e96-470d-8a6f-5783e914bee1,Protein Powder,2025-05-20,1,4786
+Twitter,Summer Fit,72,23aa4cac-5cf1-4f8d-866a-261e4cec9940,Multivitamins,2025-07-04,1,1963
+Twitter,Wellness Week,72,ce4ba09d-f110-4c36-8e31-3bb1d65aa98d,Protein Powder,2025-07-05,1,4476
+Twitter,Festival Boost,72,f88e4fad-eb9f-42aa-8032-02ae4c932697,Omega 3,2025-06-27,1,3683
+Twitter,Summer Fit,72,b30905c3-2a0e-450c-8b7b-4df384e2a4eb,Energy Bar,2025-03-02,3,7788
+Twitter,Summer Fit,72,76f4be4a-1893-4731-91d1-114e90d3554a,Multivitamins,2025-04-08,1,1080
+Twitter,Summer Fit,72,255e6dad-bf7b-4aa0-8871-b14707800039,Creatine,2025-06-03,3,13575
+Twitter,Winter Bulk,72,514840dd-687d-4fd2-a2a4-bd2eab55fc7e,Omega 3,2025-01-27,3,2991
+Twitter,Winter Bulk,73,18f5931a-8de4-4981-ab93-91dbd309fbe4,Omega 3,2025-04-01,2,1954
+Twitter,Winter Bulk,73,72b0cead-4bfb-4b3e-a5fc-eed184a91592,Protein Powder,2025-06-30,1,1076
+Twitter,Summer Fit,73,76e2c714-40c9-413f-96df-94397b76f150,Protein Powder,2025-06-12,1,4755
+Twitter,Festival Boost,73,1cde93fa-c625-49c0-b6bc-28f8ef14043d,Multivitamins,2025-03-11,3,7176
+Twitter,Wellness Week,73,99ae5c78-421c-4d6d-b7c4-3cc99717ab6f,Omega 3,2025-02-18,1,4810
+Twitter,Festival Boost,73,9ea3744e-b40d-42df-848c-da30b52f4bfb,Protein Powder,2025-03-18,3,5895
+Twitter,Festival Boost,73,6321b3dd-09fb-4bf3-8e83-89c4df819508,Creatine,2025-05-02,3,10296
+Twitter,Wellness Week,73,8de55e10-45c4-43b3-ad52-647e1ff5058d,Omega 3,2025-05-24,1,1866
+Twitter,Winter Bulk,73,1f47af26-7c25-4bf0-866a-512d10888d0a,Multivitamins,2025-03-19,2,9268
+Twitter,Winter Bulk,73,205e0ea2-d2f0-428c-aaa6-7f96191593da,Energy Bar,2025-06-27,3,12387
+Twitter,Winter Bulk,73,30f8ae5a-77ba-4854-a316-64d638965e31,Creatine,2025-06-09,3,9477
+Twitter,Winter Bulk,73,a4e3f6ff-47bf-4231-af0a-b47644e65249,Omega 3,2025-02-02,3,12081
+Twitter,Wellness Week,73,c09bad47-c397-4e2c-9fd9-242ddbec2135,Creatine,2025-03-03,1,4969
+Twitter,Winter Bulk,73,3a937001-6efb-4e51-9bc8-f9188bc94aff,Creatine,2025-06-20,3,7743
+Twitter,Summer Fit,73,f7197950-b06f-4b92-b210-ee7448ebdcf2,Protein Powder,2025-04-01,2,7504
+Twitter,Wellness Week,73,aac1e07f-30d9-403f-b148-cc66ea0a6635,Energy Bar,2025-06-20,2,1266
+Twitter,Wellness Week,73,8e065012-7a96-446f-8c55-f727569dc908,Multivitamins,2025-06-15,1,2960
+Twitter,Winter Bulk,73,50ce0492-1521-4656-8bf9-c84ac4eeb59c,Omega 3,2025-03-25,2,1354
+Twitter,Festival Boost,74,1af0f5cf-3bcc-4b9c-b8e0-895d76a88b54,Energy Bar,2025-06-03,1,809
+Twitter,Winter Bulk,74,899191d5-6b0f-41bd-9ec9-03faaa875e3c,Energy Bar,2025-01-30,1,1633
+Twitter,Wellness Week,74,d9b7aecc-70e9-4a08-a3e9-957e1dd2af58,Energy Bar,2025-04-17,3,7638
+Twitter,Festival Boost,74,bd7d21de-1bd3-40cf-9f0f-b7a38c120176,Omega 3,2025-07-05,2,2504
+Twitter,Winter Bulk,74,41be3ae7-41ad-4b37-a157-d53c75cc9969,Creatine,2025-01-19,1,1132
+Twitter,Summer Fit,74,1a9a1004-63af-46ff-92ef-93d6f4445376,Omega 3,2025-02-09,1,4499
+Twitter,Summer Fit,74,6cede7c5-3679-464e-8df9-142c2f2b86e5,Omega 3,2025-02-17,3,8880
+Twitter,Summer Fit,74,254e5aba-9d81-44e7-9243-d720656bce7a,Energy Bar,2025-02-11,2,2284
+Twitter,Festival Boost,74,ab2126d7-0d1d-4575-bb8e-1d3e577f4f5d,Protein Powder,2025-03-04,2,8114
+Instagram,Festival Boost,75,010f9934-49b4-472b-9da7-a18810b203d8,Protein Powder,2025-07-03,3,1779
+Instagram,Summer Fit,75,30d038a1-4be2-4956-9de8-9d2b1d695f44,Energy Bar,2025-04-02,2,9590
+Instagram,Winter Bulk,75,cf7dc404-cad8-437b-bc30-fb5b63c6f2f5,Omega 3,2025-04-04,3,5175
+Instagram,Wellness Week,75,dfa2ea8a-5a7a-4d4a-bce4-2e39279a670c,Protein Powder,2025-03-24,3,6924
+Instagram,Festival Boost,75,94bdefc7-8cc7-4d4d-9b85-e850abaf983f,Omega 3,2025-02-19,3,11154
+Instagram,Summer Fit,75,e832f8fa-504e-4932-bd14-fc24549008cd,Multivitamins,2025-01-23,3,13902
+Instagram,Festival Boost,75,59964600-3314-4184-bbb1-8680927dc0c4,Multivitamins,2025-03-15,2,5746
+Instagram,Summer Fit,75,d37e0b9b-ecfc-4f2a-850f-84018fe1a022,Creatine,2025-07-17,1,3253
+Instagram,Festival Boost,75,c79b2b1d-3910-4569-a2c6-f94e51fc0179,Energy Bar,2025-05-06,3,2709
+Instagram,Festival Boost,75,3a9db76f-4df2-4c9a-999c-80450b211225,Multivitamins,2025-04-26,1,3764
+Instagram,Wellness Week,75,3669a948-1b6e-4b1f-a947-13d59a66b3f8,Creatine,2025-04-24,1,4439
+Instagram,Wellness Week,75,fc63ea2f-bd05-420f-86af-45536a12fea0,Multivitamins,2025-03-30,2,4212
+Instagram,Winter Bulk,76,5aa9147a-3313-42f7-9170-39517afd4f16,Omega 3,2025-07-14,2,8046
+Instagram,Festival Boost,76,c0702a49-87ad-46e5-b989-4f2f11acdffd,Creatine,2025-06-27,1,1421
+Instagram,Wellness Week,76,a8f84dea-a847-420e-9caf-229106b47b66,Energy Bar,2025-02-01,2,6706
+Instagram,Winter Bulk,76,7fa2ed72-0d95-4b46-95af-74254f1ef3e6,Multivitamins,2025-01-19,2,1396
+Instagram,Wellness Week,76,b5a4f948-f2f6-48c5-a2fe-da58a1e48b81,Creatine,2025-06-21,2,8244
+Instagram,Wellness Week,76,e6d334d9-4484-4621-993d-0a5749c284ea,Energy Bar,2025-03-13,1,2412
+Instagram,Summer Fit,76,24adec76-2ad5-4d7b-8ada-c4b056b68942,Protein Powder,2025-02-15,1,1202
+Instagram,Winter Bulk,77,b2ccc0c2-7032-429a-915b-58cbb1a561bc,Protein Powder,2025-06-09,3,5127
+Instagram,Winter Bulk,77,1bd4da75-803c-41ef-a1c5-4f932d07b137,Creatine,2025-05-16,2,2822
+Instagram,Winter Bulk,77,9bf1e703-939c-4f18-932e-6824cb078e01,Multivitamins,2025-07-13,2,1372
+Instagram,Wellness Week,77,b572fb5c-81b7-4c6d-ab7a-b3ef0b72eb01,Multivitamins,2025-03-01,3,14721
+Instagram,Winter Bulk,77,9476b072-f924-43e5-b31b-61a3a63a8be5,Omega 3,2025-06-01,3,14358
+Instagram,Summer Fit,77,eacf005c-803c-4ed8-ada8-60f8f9205074,Creatine,2025-04-27,2,3314
+Instagram,Summer Fit,77,32a927de-68bf-4f0d-a713-d1c2f8b57013,Energy Bar,2025-01-21,3,14445
+Instagram,Winter Bulk,77,6b587d4b-7ea3-41ff-936d-3ec753998a89,Multivitamins,2025-06-22,1,992
+Instagram,Summer Fit,77,1c59a71c-1eb2-429f-a6e9-2d8d7fa23899,Creatine,2025-04-19,3,8166
+Instagram,Summer Fit,77,d2c61d20-3f86-4d55-ae0e-71396f29d274,Creatine,2025-06-14,3,1704
+Instagram,Winter Bulk,77,68f8f905-bd14-43ad-8679-f05a8a2e5fcd,Protein Powder,2025-02-12,3,8166
+Instagram,Festival Boost,77,f9b7dedf-e6b3-4046-a413-5d66ac668a80,Multivitamins,2025-05-31,1,2896
+YouTube,Winter Bulk,78,a7053320-43eb-4d25-92e8-006e7894862f,Creatine,2025-02-25,3,3945
+YouTube,Summer Fit,78,74beab86-400d-430a-a136-ff48ddc768a0,Multivitamins,2025-02-02,3,14562
+YouTube,Festival Boost,78,b801be1e-d33c-4af5-9176-9f3065496d71,Omega 3,2025-03-28,1,4601
+YouTube,Summer Fit,78,78fedf18-243c-4739-88e1-f4279a7b062a,Multivitamins,2025-05-30,3,2028
+YouTube,Winter Bulk,78,c8aaab93-9052-47bd-bd9b-b58b96f03fb5,Creatine,2025-05-11,3,8991
+YouTube,Summer Fit,78,c55c7ce3-1b23-4c33-9e8d-27d9e5c93b14,Energy Bar,2025-06-06,2,3572
+YouTube,Winter Bulk,78,ca7a2f47-04f5-4d2b-a8d0-29cafc6fa464,Energy Bar,2025-05-26,3,10146
+YouTube,Winter Bulk,78,f5814b60-ef94-4bc3-9e03-5bc780245a33,Protein Powder,2025-01-19,1,4606
+YouTube,Festival Boost,78,c730721f-4ce7-4dd4-9d41-5953efe33ead,Protein Powder,2025-05-19,3,7830
+YouTube,Wellness Week,78,d95ad756-74eb-4b50-928c-afd64ccbea29,Multivitamins,2025-03-12,3,8385
+YouTube,Wellness Week,78,01dde847-1245-4f21-8c41-b35e22e4cccf,Protein Powder,2025-03-30,2,7436
+YouTube,Wellness Week,78,cd61b30b-13ef-4fc5-b005-213959c8698e,Creatine,2025-02-18,3,10893
+YouTube,Festival Boost,78,7019f9af-c9a2-4c15-8375-648a06f779e7,Energy Bar,2025-06-14,1,1751
+YouTube,Festival Boost,78,70f99cba-8955-4b18-b324-24afbed155cb,Omega 3,2025-03-05,3,9591
+YouTube,Wellness Week,78,be42b736-3a55-4d69-bc34-e4f90746ade4,Omega 3,2025-07-05,1,2193
+YouTube,Wellness Week,78,7a3e3cd7-a956-4fcf-a3a4-b9be13a41ab6,Energy Bar,2025-02-04,3,6471
+YouTube,Wellness Week,78,9562a4d4-f675-4b34-9d4d-4cd3e1bec5ee,Creatine,2025-06-11,3,14373
+Instagram,Winter Bulk,79,3ef9737f-609e-4bd6-83cf-f83cc6bfa2f9,Protein Powder,2025-04-19,3,5382
+Instagram,Summer Fit,79,3f6cace6-23b4-4411-ac4f-51de2a7bf123,Multivitamins,2025-07-19,3,14598
+Instagram,Summer Fit,79,2a08a194-2a17-4f1d-a97b-396a615a416a,Energy Bar,2025-04-02,2,3384
+Instagram,Winter Bulk,79,07a202e7-c761-4a69-ae13-b19edc56c8f7,Creatine,2025-01-19,2,7736
+Instagram,Wellness Week,79,13b01793-957a-41f9-a983-ca32f8432b0d,Multivitamins,2025-03-06,3,8226
+Instagram,Wellness Week,79,3b5a008e-4d42-4010-8b63-a68af80af1fe,Protein Powder,2025-03-22,1,1577
+Instagram,Wellness Week,79,40f507a7-45c7-4fba-aa5f-c2a273ae3301,Omega 3,2025-06-10,3,8058
+Instagram,Summer Fit,79,bdca113d-0a1b-4b29-83ed-b483b69db319,Energy Bar,2025-02-02,1,2391
+Instagram,Wellness Week,79,66b62f56-e512-4ba2-afa9-a08446f041ba,Omega 3,2025-06-16,1,4404
+Twitter,Wellness Week,80,4278f55e-5a58-461b-a2bd-3dad367dc6b0,Creatine,2025-04-18,3,10689
+Twitter,Wellness Week,80,14b456ae-4bed-48f2-9be5-0ee2d5742578,Multivitamins,2025-07-02,2,8762
+Twitter,Summer Fit,80,e7de9128-c92c-4f8b-816a-6144ccb25e8c,Creatine,2025-04-23,1,2353
+Twitter,Festival Boost,80,c85d49f0-4d3b-4511-b654-788506bce811,Multivitamins,2025-04-09,1,2710
+Twitter,Wellness Week,80,3b102586-c852-4c01-89de-e7b06d172572,Protein Powder,2025-05-21,3,6483
+Twitter,Festival Boost,80,de8d2b08-29f4-4066-b90d-baba1b9b8be6,Energy Bar,2025-06-06,1,4098
+Twitter,Festival Boost,80,33fc78cd-93aa-4eb1-8e81-7b7bbaf0fc7b,Creatine,2025-07-03,2,5042
+Twitter,Winter Bulk,80,59fe270a-71a1-4297-b4e2-6c14e0e8ea6e,Creatine,2025-02-26,1,3616
+Twitter,Summer Fit,80,1df3346c-d953-43e6-adad-1634b72a8f2b,Omega 3,2025-05-20,3,14676
+Twitter,Festival Boost,80,8b051f53-df8b-4f64-afe3-18cdf61968f4,Protein Powder,2025-04-19,1,4199
+Twitter,Festival Boost,80,36969be7-6713-4bd2-a0e7-30d86eef0395,Protein Powder,2025-07-06,1,4749
+Twitter,Summer Fit,80,dce6098e-699a-48f3-8bce-501e50002c18,Multivitamins,2025-07-20,3,11019
+Twitter,Festival Boost,80,4a057bf0-d7d5-41ef-8eaf-db69a1d43f64,Energy Bar,2025-04-08,2,8200
+Twitter,Wellness Week,80,151efa1c-3fba-4ae4-ab73-a1cd88ba97e9,Creatine,2025-06-03,2,8558
+Twitter,Wellness Week,80,36f34bc3-6add-42ee-b3c8-1e7114712f2f,Creatine,2025-07-08,2,1892
+Twitter,Summer Fit,80,98be384a-d2c7-4998-9c68-344aa09f12a0,Omega 3,2025-01-29,3,12600
+Twitter,Wellness Week,80,21c7c120-7a34-43f4-8c09-83e56a3a9bfc,Creatine,2025-05-12,1,1972
+Twitter,Festival Boost,80,5921320d-61f4-4cbb-9d50-a52c9fb634c3,Protein Powder,2025-04-13,2,6298
+Twitter,Wellness Week,80,c367c9ab-8a31-41a8-9c12-79643b9c8874,Creatine,2025-06-05,1,4216
+Twitter,Winter Bulk,80,f8dd32cc-32c3-447e-8d3c-3d861e1078c0,Multivitamins,2025-05-23,1,2548
+Instagram,Festival Boost,81,0997657f-fa33-4e0c-b794-173d627fc6c3,Energy Bar,2025-04-03,1,1435
+Instagram,Festival Boost,81,1a0a7f21-ccb5-4e24-803b-b7cd7433ac2e,Omega 3,2025-07-17,1,4791
+Instagram,Festival Boost,81,3a8fb66f-54b0-4c03-9b28-e4bc2ff732f4,Omega 3,2025-03-16,3,5427
+Instagram,Wellness Week,81,c67294a2-b518-437a-a5ff-4625169192be,Energy Bar,2025-05-12,2,1718
+Instagram,Wellness Week,81,84340729-e600-45e0-89ee-6273fa0ce301,Multivitamins,2025-03-24,3,5187
+Instagram,Festival Boost,81,330952c6-69d6-4fcb-bc5c-6cb4c30431ee,Energy Bar,2025-03-04,1,920
+Instagram,Winter Bulk,81,ab7b0a07-e4ed-4157-8433-3776e841e09f,Multivitamins,2025-03-22,2,8310
+Instagram,Wellness Week,81,f5a7185a-6359-4933-94fc-894439d7d837,Protein Powder,2025-05-05,1,1577
+Twitter,Festival Boost,82,9dda9daa-1a06-4eb6-9a63-f60db41aa654,Creatine,2025-05-01,1,4257
+Twitter,Festival Boost,82,c214db2a-53ec-4369-b365-357970ce5eea,Multivitamins,2025-01-31,3,1641
+Twitter,Festival Boost,82,5e9f2942-4dae-4d2d-9f0a-182a490a7246,Creatine,2025-04-12,1,4397
+Twitter,Summer Fit,82,3e3899f2-83aa-45df-8faa-e7548f611236,Multivitamins,2025-03-25,2,2300
+Twitter,Wellness Week,82,927e5519-085d-47e8-8f9f-523bf60cb7fd,Protein Powder,2025-07-03,3,8334
+Twitter,Summer Fit,82,892a8e65-f9dd-4e53-a341-fa0902ba3ac0,Energy Bar,2025-03-28,1,1714
+Twitter,Summer Fit,82,236e3eeb-3e24-4353-816a-55d724f0255f,Omega 3,2025-05-08,1,1690
+Twitter,Winter Bulk,82,900e7c32-49ce-414e-a31e-2d01825160f2,Protein Powder,2025-07-12,3,8832
+Twitter,Festival Boost,82,4381258e-973d-4689-bc92-ab6ebc2488a1,Multivitamins,2025-06-15,1,1392
+Twitter,Wellness Week,82,76d88e2a-33ee-4f59-84ef-27d2e5cd870e,Creatine,2025-06-02,1,2829
+Twitter,Summer Fit,82,5adb8cee-ed64-4be0-a1d7-4b8f00fc0fcf,Protein Powder,2025-04-17,3,10350
+Twitter,Winter Bulk,82,bfd0ef27-2a78-4c85-a31a-1fb9b91e7131,Creatine,2025-05-26,2,6288
+Twitter,Summer Fit,82,30dd58e3-e110-41c2-9da3-e0780f1a0853,Energy Bar,2025-04-06,1,4000
+Instagram,Winter Bulk,83,c6818935-14c1-49d7-9f2e-b649507ba93e,Energy Bar,2025-07-01,1,1499
+Instagram,Wellness Week,83,7c311b7b-847d-4f19-b334-773f8a4094ea,Multivitamins,2025-06-02,3,11667
+Instagram,Summer Fit,83,b1c22a94-ffaf-45d8-b823-cb50e8c3043f,Omega 3,2025-02-17,3,2928
+Instagram,Summer Fit,83,c612002f-ae52-4910-8127-76b3c8a67092,Creatine,2025-02-20,3,14499
+Instagram,Festival Boost,83,e0981fc5-4b7e-4757-8d00-25bccf4ff727,Omega 3,2025-02-06,3,8556
+Instagram,Winter Bulk,83,92e87877-8e3c-4350-80a1-9a0386cf7042,Multivitamins,2025-01-24,2,5254
+Instagram,Festival Boost,83,f1570e9a-e775-4534-8020-c3adf2b0d4a9,Creatine,2025-06-20,3,13698
+Instagram,Winter Bulk,83,65ee2f91-dc4c-4b12-9686-dea9a1baa4ae,Multivitamins,2025-02-12,1,2406
+Instagram,Summer Fit,83,2becb1a4-7793-4937-9940-c02a3324e486,Creatine,2025-04-23,1,1468
+Instagram,Wellness Week,83,97ea444a-66b1-43a5-a7e0-c0415f4a6ad9,Omega 3,2025-04-27,3,4398
+Instagram,Summer Fit,83,c63de304-1242-46bf-a87e-752bfe30b2cc,Energy Bar,2025-07-06,2,7782
+Instagram,Summer Fit,83,1042840a-b4b0-42e1-84ff-b2ff66fdff85,Multivitamins,2025-04-18,2,4478
+Instagram,Winter Bulk,83,4f280d0a-1763-4f86-a577-4a94790c056c,Protein Powder,2025-03-18,3,8421
+Instagram,Winter Bulk,83,071ad226-3cfb-48cd-935f-56e421660a9f,Protein Powder,2025-01-27,2,5918
+Instagram,Winter Bulk,83,a1ae817b-989d-4696-8377-e8cdc8795010,Creatine,2025-03-31,1,3230
+Instagram,Wellness Week,83,4a61eeb1-2b3b-4f58-b38c-ccfd5db4129c,Multivitamins,2025-03-11,3,2214
+Instagram,Festival Boost,83,948db52d-e3b5-42ff-af58-11b3e7bb27ac,Creatine,2025-03-12,2,6536
+Instagram,Festival Boost,83,86ab0311-d143-4411-b94d-a4bd84f050d1,Multivitamins,2025-06-15,1,1612
+Instagram,Winter Bulk,83,0c140027-11fd-4dfd-8cda-b5e666072ccd,Creatine,2025-04-25,3,12819
+Instagram,Winter Bulk,83,231e74a9-3d37-4aa2-b727-8ee1827af647,Omega 3,2025-03-23,2,1916
+Twitter,Summer Fit,84,e3d6fc64-e62b-4a5e-8e5b-312c4dcb5f3c,Multivitamins,2025-04-12,3,14667
+Twitter,Winter Bulk,84,672f6e09-48b6-4c8d-a898-7297ffe086d7,Protein Powder,2025-01-23,3,9651
+Twitter,Summer Fit,84,40c8c0ea-426c-4986-a28e-2668a265d6c0,Energy Bar,2025-05-26,1,2797
+Twitter,Wellness Week,84,7f54e987-5c1e-4d61-bdb7-5c811d346e72,Omega 3,2025-05-30,2,9752
+Twitter,Wellness Week,84,ea76bd40-2d43-4cc4-887a-899c07ff124e,Omega 3,2025-04-14,3,11073
+Twitter,Winter Bulk,84,643e3800-3c05-4aec-bfc8-1d0ee2796b05,Protein Powder,2025-02-23,1,3025
+Twitter,Summer Fit,84,4c4d691c-636b-487c-8045-1a3a3ee7c568,Creatine,2025-05-26,2,7780
+Twitter,Festival Boost,84,864417c4-d0a5-42ba-95a0-f658e5f9cc68,Energy Bar,2025-07-17,1,3544
+Twitter,Winter Bulk,84,143866c0-d8a6-4e1c-af54-25a9dd362662,Multivitamins,2025-07-14,1,4801
+Twitter,Summer Fit,84,99cfc190-64b4-4bdc-99e4-f450eb9184ca,Multivitamins,2025-05-04,1,3565
+Twitter,Summer Fit,84,3c92eb29-3ba6-4671-9b3b-b1087efba42e,Creatine,2025-02-21,1,4135
+Twitter,Wellness Week,84,099e301a-a7aa-4229-a5b3-97a7dd876226,Energy Bar,2025-05-31,3,5286
+Twitter,Winter Bulk,84,8173c22b-e600-4276-a158-79807da7b2a1,Energy Bar,2025-07-18,2,9578
+Twitter,Wellness Week,84,6cf55ca6-a852-4ab6-8227-d8dfb9b325fd,Multivitamins,2025-05-23,1,1304
+Twitter,Festival Boost,84,bc875dd6-7515-4e51-892f-40fa740e3237,Creatine,2025-03-07,3,2397
+Twitter,Summer Fit,85,74591d9e-45c3-4675-bccc-e1fef4eacf22,Omega 3,2025-04-20,1,3047
+Twitter,Festival Boost,85,f355968d-f458-4455-b7c3-179e03c3ad3e,Protein Powder,2025-06-05,1,3230
+Twitter,Winter Bulk,85,60aab282-01ea-44d7-b812-64ad36eae5c0,Protein Powder,2025-01-21,1,4764
+Twitter,Wellness Week,85,6119e1af-e256-4314-b650-cdfea0836e29,Energy Bar,2025-05-16,3,9171
+Twitter,Winter Bulk,85,cc85bb8e-e154-41ad-802a-f0d85aaba4e7,Energy Bar,2025-02-15,1,2077
+Twitter,Festival Boost,85,c8dfa6e8-a85c-45a0-9f49-6a33df36145a,Protein Powder,2025-03-21,3,9342
+Twitter,Wellness Week,85,2b6108a8-ec5e-4f69-ab54-e48c5dfe58fa,Energy Bar,2025-02-06,2,3446
+Twitter,Summer Fit,85,d767879d-0e8e-4ad3-b6ae-8cd7480a9843,Multivitamins,2025-07-07,1,624
+Instagram,Winter Bulk,86,a6076329-1d73-413d-8c11-0850b5bccb3b,Multivitamins,2025-04-16,3,9327
+Instagram,Wellness Week,86,f3df8398-5587-4cae-8bee-87819cea5b7c,Multivitamins,2025-05-21,3,8460
+Instagram,Winter Bulk,86,c10ac2a6-e80a-49c1-b5bc-8f580bf38b7c,Omega 3,2025-04-03,1,3050
+Instagram,Wellness Week,86,ecea778f-136e-4a4d-a291-628b9439e38e,Protein Powder,2025-03-07,2,1830
+Instagram,Summer Fit,86,a32f832e-d93a-4fe6-b13a-bad6a636d4da,Creatine,2025-02-12,2,1826
+Instagram,Festival Boost,86,31cc686d-faf9-48dc-b44a-b722a3e56818,Creatine,2025-02-16,1,1205
+Instagram,Winter Bulk,86,5021cc2e-8556-4bdb-88ee-d7886c00172b,Energy Bar,2025-01-29,1,4152
+Instagram,Summer Fit,86,2854055c-b545-42d3-8275-826c0839b93d,Creatine,2025-01-24,2,4246
+Instagram,Summer Fit,86,746d12be-237f-4ba5-8fc4-30fcc3427219,Creatine,2025-05-03,3,4737
+Instagram,Winter Bulk,86,a4ff140c-d835-4a31-b2f2-5a402b4732e3,Creatine,2025-05-27,1,4232
+Instagram,Wellness Week,86,cc5c8a39-2549-44bd-a6b6-3a665f9fff70,Multivitamins,2025-07-07,2,4796
+Instagram,Winter Bulk,86,64ae85d9-dec3-499e-b06e-cbb1556cca99,Creatine,2025-04-02,3,7839
+Instagram,Winter Bulk,86,753293b4-a328-46af-938e-87dc18d918fe,Creatine,2025-06-04,1,3206
+Instagram,Summer Fit,86,cf77a3ce-cee8-45da-9ae5-44be967d929c,Creatine,2025-05-14,2,1494
+Instagram,Festival Boost,86,dd0723c2-7f89-4682-b1a9-b81d3857a9f9,Creatine,2025-05-22,1,3379
+Instagram,Winter Bulk,86,8b2f72cf-3fc4-4a56-96c0-58beea66e48a,Omega 3,2025-01-30,1,2812
+Instagram,Festival Boost,87,81a73622-a204-4c6f-a008-224bc55a6a07,Protein Powder,2025-06-18,3,4029
+Instagram,Winter Bulk,87,38706f6e-80c6-4fa4-a365-4e614391323c,Omega 3,2025-05-06,2,2162
+Instagram,Festival Boost,87,0c5ade6f-4ffd-4e03-895f-686f9afa7627,Multivitamins,2025-01-26,2,7566
+Instagram,Wellness Week,87,94f538f0-0bc9-4292-b18c-fe4d415ae2aa,Creatine,2025-06-07,3,7488
+Instagram,Winter Bulk,87,32a81b0e-3302-4f2f-b687-e40387dec90a,Multivitamins,2025-04-27,2,2082
+Instagram,Festival Boost,87,fb021ad1-2567-4a57-bd00-37eba47e76b0,Omega 3,2025-05-21,3,12093
+Instagram,Wellness Week,87,6e549e15-3464-4ae3-9839-4e7d64576263,Multivitamins,2025-02-19,2,9920
+Instagram,Festival Boost,87,66f3390b-8265-4764-9569-4ec985fdacc2,Protein Powder,2025-05-26,3,3414
+Instagram,Winter Bulk,87,89291c5f-db9a-416d-a995-af97724500d2,Omega 3,2025-04-19,3,12876
+Instagram,Winter Bulk,88,0ce16988-ba21-4959-86b5-bdb1b9b94794,Creatine,2025-07-11,2,3886
+Instagram,Festival Boost,88,5dd4b75e-e7a3-4845-b4b9-1f00321ae7a9,Energy Bar,2025-04-16,1,1390
+Instagram,Summer Fit,88,fc757a9a-9c19-408b-aa18-d686e22fe582,Multivitamins,2025-05-03,2,2006
+Instagram,Wellness Week,88,a53443c5-6417-465f-be1f-c97cfbae3dd2,Multivitamins,2025-05-02,1,501
+Instagram,Winter Bulk,88,30263973-817b-48e0-9d1b-2191c2438efb,Creatine,2025-06-15,2,9704
+Instagram,Wellness Week,88,774ee791-a0fa-4317-a89f-19a9ec1d41fa,Multivitamins,2025-02-11,3,12489
+Instagram,Winter Bulk,88,b35ab1f4-53c9-4c31-8c20-de417c02f811,Omega 3,2025-05-24,3,9279
+Instagram,Festival Boost,88,f446c6d7-f1a6-4e39-86d3-76dd9d8fa92b,Energy Bar,2025-04-08,3,8982
+Twitter,Festival Boost,89,f661dddf-5c70-4598-9e6b-fe1e00c89cd9,Multivitamins,2025-06-04,3,1698
+Twitter,Winter Bulk,89,c4501c5a-de31-41dc-b9b3-9ab12b3926d4,Omega 3,2025-04-30,2,2022
+Twitter,Winter Bulk,89,c07f6811-0e1b-412b-9c22-3322b3e6c1f9,Protein Powder,2025-06-03,1,506
+Twitter,Wellness Week,89,1b434af6-2bbb-4d3f-a44a-979057191a2c,Creatine,2025-06-06,2,1510
+Twitter,Winter Bulk,89,707b2dac-4171-4433-b12d-ded85bb52fe4,Creatine,2025-04-30,3,11187
+Twitter,Festival Boost,89,ca442c5e-e14a-42c3-b862-c8eb2515d068,Omega 3,2025-02-18,2,7250
+Twitter,Festival Boost,89,8960b365-44df-44e5-beaa-b6cb80cd4724,Multivitamins,2025-02-02,1,1920
+Twitter,Winter Bulk,90,173c9488-fb15-4b2c-a30c-4e09bb40858b,Creatine,2025-02-18,3,10950
+Twitter,Wellness Week,90,66890d38-348a-40cf-8e3e-b3ddb84ce71d,Multivitamins,2025-07-19,1,2863
+Twitter,Summer Fit,90,71d68f47-2ff3-4d7f-8b21-de3744d3d317,Multivitamins,2025-06-05,1,1087
+Twitter,Festival Boost,90,b17e49b5-d587-4b29-9ced-ee0ec36349c5,Multivitamins,2025-03-01,3,13461
+Twitter,Festival Boost,90,39c19abb-1d32-4578-9dfb-8e89301e2cf9,Creatine,2025-05-11,1,1624
+Twitter,Wellness Week,90,7ed0a0a6-5a5c-4295-a173-d881d3b41a44,Creatine,2025-06-29,3,11961
+Twitter,Festival Boost,90,0a2239ed-9ae3-4878-8402-cf4c6c19a7b6,Creatine,2025-03-14,3,11922
+Twitter,Wellness Week,90,4edfc3a3-496f-4478-b127-b48ef76dfc93,Creatine,2025-03-14,2,4698
+Twitter,Festival Boost,90,e3e4219e-3ab1-4aa5-b885-ea15cd8d08eb,Multivitamins,2025-05-02,3,1680
+Twitter,Winter Bulk,90,705b9706-9060-41b4-9a61-2fff3771fbef,Creatine,2025-05-08,3,13830
+Twitter,Summer Fit,90,e46f92cd-f241-4113-bfab-ea65e2b9cc65,Protein Powder,2025-04-20,3,10518
+YouTube,Summer Fit,91,70b74b98-5d4e-417e-9137-60beca62f209,Omega 3,2025-05-02,3,10557
+YouTube,Wellness Week,91,caab67af-69d9-47b6-a575-b24b885cb6c7,Omega 3,2025-05-29,2,2310
+YouTube,Summer Fit,91,87cd5afc-0341-4f03-b6ac-1c57caeb7fd1,Omega 3,2025-02-17,2,8616
+YouTube,Wellness Week,91,7ec83ca9-f703-49da-b470-531f05939de2,Creatine,2025-07-09,3,3672
+YouTube,Winter Bulk,91,20781f93-a4f1-4816-8e84-10eabf84df73,Omega 3,2025-02-05,3,3417
+YouTube,Summer Fit,91,482df7a6-88d3-4c7a-bf32-e21312f62c20,Creatine,2025-05-04,1,3314
+YouTube,Festival Boost,91,c6b0db4c-c884-4322-aff6-82cc09c49e22,Omega 3,2025-03-15,2,9398
+YouTube,Festival Boost,91,39139c29-416b-4ed2-a333-a276308000ff,Energy Bar,2025-07-08,3,9645
+YouTube,Wellness Week,91,944bea44-c421-44f9-b537-598ed9c7b5ec,Protein Powder,2025-02-16,2,5738
+YouTube,Winter Bulk,91,c81e864d-6917-40af-bfb7-75546054f7ee,Protein Powder,2025-06-26,3,8970
+YouTube,Wellness Week,91,fc11b1c3-e623-457c-9956-461b11b182f7,Omega 3,2025-06-05,3,13128
+YouTube,Summer Fit,91,badcb8a2-05f3-45db-8def-ca73da61d213,Energy Bar,2025-05-25,1,2890
+YouTube,Wellness Week,91,e6844615-dab1-466e-9b18-48cea91810f6,Omega 3,2025-03-14,2,2350
+YouTube,Winter Bulk,91,47146a02-4335-40f3-ac2b-cae56659610c,Multivitamins,2025-04-27,1,2776
+YouTube,Winter Bulk,91,14199946-7851-40a2-9936-ab04a932157b,Energy Bar,2025-07-10,3,8403
+YouTube,Wellness Week,91,d6da05fc-3473-48b2-b94c-0ca69c352c23,Omega 3,2025-03-02,1,1413
+YouTube,Festival Boost,91,766a4853-f0fb-44aa-bdc3-79fa151a3303,Energy Bar,2025-06-26,3,5214
+YouTube,Wellness Week,91,4cdcb6cf-0341-4967-b441-bd3008f1c17f,Creatine,2025-04-04,1,2640
+YouTube,Summer Fit,91,85fda8ef-2b44-4ad5-a2f4-36d7ff637865,Energy Bar,2025-06-24,1,4820
+YouTube,Wellness Week,91,26ff316e-c517-465b-82cc-87a74b3d653a,Creatine,2025-02-05,1,1688
+Instagram,Festival Boost,92,141defa6-552f-4c89-8e80-f9f388cba12c,Multivitamins,2025-02-09,2,4898
+Instagram,Summer Fit,92,4e7468ce-e102-44ca-96e5-f006525c19aa,Energy Bar,2025-06-01,1,3326
+Instagram,Wellness Week,92,0d8a0c92-bad1-49da-8d5d-7955e2b6106a,Creatine,2025-05-02,1,930
+Instagram,Winter Bulk,92,e5239006-88d9-4aa9-a19d-25c6a8210153,Creatine,2025-06-14,2,8802
+Instagram,Wellness Week,92,ecc803e3-329d-48d4-8203-78f732202e13,Creatine,2025-03-02,3,14586
+Instagram,Festival Boost,92,9deca120-59c1-4ba2-acad-fbb879d9ad0a,Energy Bar,2025-05-22,3,11085
+Instagram,Festival Boost,92,a35160ba-474f-4969-91ec-1569e68269fa,Protein Powder,2025-04-16,1,4845
+Instagram,Festival Boost,92,eaa6e6ae-4b85-4e3b-931c-c14e26667eed,Energy Bar,2025-04-11,2,8352
+Instagram,Summer Fit,92,0ba2dc34-43cb-4d79-a291-fc41acc7cc0b,Omega 3,2025-03-05,3,2508
+Instagram,Festival Boost,92,6427b4fa-8d1d-428b-9991-93d05c1a4a6d,Omega 3,2025-04-18,3,10194
+Instagram,Winter Bulk,92,688c2b5d-ad96-4dce-b888-d1c912344865,Energy Bar,2025-06-11,3,8199
+Instagram,Winter Bulk,92,ff4fa752-1529-4fa9-a3fb-a59a901650a3,Omega 3,2025-03-13,2,2610
+Instagram,Wellness Week,92,ed4c5afc-01b8-4310-a0d2-88b119410461,Omega 3,2025-03-16,2,8554
+Instagram,Winter Bulk,92,233fea52-8e6b-421f-86b8-96940ce7e8ca,Multivitamins,2025-04-28,1,4759
+Instagram,Summer Fit,92,1252392b-ebfe-490c-a763-f131645f41d8,Protein Powder,2025-04-24,2,9972
+Instagram,Festival Boost,92,4feed160-05b5-4c04-929a-db19a654d9df,Protein Powder,2025-05-21,1,597
+Instagram,Festival Boost,92,a025e76d-65a9-4bf4-bb34-eab25b8e7718,Energy Bar,2025-07-07,3,4053
+Instagram,Winter Bulk,92,a75b7df1-3650-4828-9b67-64d38747c1c6,Multivitamins,2025-04-27,1,2820
+Instagram,Summer Fit,93,d5c29d19-635d-4a4c-bd82-f017d79a4b2b,Omega 3,2025-04-15,1,1253
+Instagram,Summer Fit,93,ceed120d-0d03-483d-92bf-6457c3a7f2ab,Protein Powder,2025-03-17,3,6828
+Instagram,Festival Boost,93,b827964c-feba-42ae-8124-0fd6b57f5389,Omega 3,2025-07-04,1,1564
+Instagram,Wellness Week,93,1c619402-800d-422f-a9ab-4e1864f465d2,Energy Bar,2025-03-18,1,1408
+Instagram,Summer Fit,93,e74241e2-2024-437f-b4b6-4c7c0a4d64b3,Creatine,2025-03-09,2,8650
+Instagram,Winter Bulk,93,d28c594a-72b4-4b44-9002-2a9f1441c42d,Energy Bar,2025-04-27,2,7994
+Twitter,Summer Fit,94,4b06690b-9b06-489a-813b-95c7e8dd0e1e,Creatine,2025-05-05,1,2771
+Twitter,Summer Fit,94,1d4782af-000f-422a-9733-4986c846d68d,Energy Bar,2025-05-21,2,6450
+Twitter,Festival Boost,94,4c0d0c18-3ac7-40cb-abf8-5e27f61dfdf3,Protein Powder,2025-03-26,2,3914
+Twitter,Festival Boost,94,6b56c531-20d9-4128-90d4-d880db9b8402,Multivitamins,2025-07-04,2,4286
+Twitter,Summer Fit,94,47c1a003-1018-4b3c-af92-3290dd99e2d4,Multivitamins,2025-05-31,3,13590
+Twitter,Wellness Week,94,f2e91dcf-b142-429b-b2c0-b5a297a94d42,Omega 3,2025-01-20,3,12096
+Twitter,Festival Boost,94,470ad47f-b2b1-49fe-acf0-21e5a58ea9db,Energy Bar,2025-06-21,3,4110
+Twitter,Summer Fit,94,174569f2-3037-4fbb-8d70-5994ea387544,Protein Powder,2025-06-07,1,785
+Twitter,Festival Boost,94,a6b376d0-569c-448c-a52f-e20c82c48846,Protein Powder,2025-06-18,3,7656
+Twitter,Summer Fit,94,d8ab1869-827b-4d80-a45a-f7c840dc1f21,Protein Powder,2025-03-07,2,3438
+YouTube,Winter Bulk,95,66dd418d-c6e9-474d-9964-2ea3924fa16d,Creatine,2025-04-19,2,3482
+YouTube,Festival Boost,95,f626a30f-d447-45d2-9db4-9ffbd77d0c6d,Creatine,2025-03-12,3,1590
+YouTube,Summer Fit,95,2ac2ab90-2037-4a87-8e83-8c26c3f7ba40,Omega 3,2025-04-15,2,7616
+YouTube,Festival Boost,95,b68a5b41-797c-4f75-9f18-840cbf5a02c7,Creatine,2025-03-14,1,527
+YouTube,Winter Bulk,95,4be90204-be39-47e9-828c-779901038b0b,Energy Bar,2025-04-29,1,4885
+YouTube,Festival Boost,95,cc5b54ed-0988-49eb-96c5-40b5ddd93199,Protein Powder,2025-06-25,3,8940
+YouTube,Winter Bulk,95,21b67378-5a2d-4bd6-a4ae-044d9df47d0e,Omega 3,2025-02-18,3,3726
+YouTube,Festival Boost,95,3e045ab4-bf3e-4813-8525-a1a2986e537c,Energy Bar,2025-04-09,2,2318
+YouTube,Wellness Week,95,8d50b2e5-3cfe-40fe-a937-d06948df6c3e,Omega 3,2025-04-02,3,6489
+YouTube,Wellness Week,95,3df828f5-40a1-4364-b536-b7a8011ea9f1,Energy Bar,2025-05-15,1,3647
+YouTube,Summer Fit,95,aa99402d-cdd0-49e3-b0ed-c2167d1b1501,Energy Bar,2025-04-03,3,11085
+YouTube,Festival Boost,95,a251e1b1-c8a1-4553-9502-0fe842b92c31,Multivitamins,2025-04-01,2,2390
+YouTube,Wellness Week,95,8d3b642e-7ded-4d6e-9210-c776aea27f8e,Protein Powder,2025-01-26,1,792
+YouTube,Festival Boost,95,9a334d1c-1944-4123-b17c-246a11a79b6f,Creatine,2025-07-01,3,7359
+YouTube,Winter Bulk,95,d67cbbcd-b882-465c-b39a-44175dbb9782,Creatine,2025-06-30,1,4928
+YouTube,Summer Fit,95,fc77e89b-4fd3-45d9-b8dd-5a6a57ed85fb,Protein Powder,2025-06-10,3,12540
+YouTube,Winter Bulk,95,e62220d3-2bbf-4230-ad7c-82aba5440688,Protein Powder,2025-01-26,2,1918
+Instagram,Festival Boost,96,540b5701-b723-48e0-bc3d-803dcd891d44,Omega 3,2025-02-06,1,2234
+Instagram,Summer Fit,96,71db6735-7703-4fd9-8cad-2da14bd4b28b,Protein Powder,2025-05-24,1,2408
+Instagram,Festival Boost,96,2944262d-1e1c-4287-afd5-ceab2b13492a,Protein Powder,2025-04-03,3,4977
+Instagram,Wellness Week,96,23a85833-a9af-460e-bb4c-f103e14115f3,Multivitamins,2025-03-06,2,1750
+Instagram,Summer Fit,96,55c0b386-f569-4bbd-9a0e-f4420c35e9fe,Energy Bar,2025-03-17,1,1911
+Instagram,Wellness Week,96,7fd6ecb1-d0c9-4489-b0fd-95536c481d6c,Omega 3,2025-03-13,1,4237
+Instagram,Summer Fit,96,dd8428d1-856e-4aa7-8936-72352bb60925,Creatine,2025-03-09,1,1371
+Instagram,Summer Fit,96,c7af64ef-59e6-422d-93a6-46413dce0eab,Multivitamins,2025-02-17,3,6918
+Instagram,Festival Boost,96,3fa1e86a-6cf3-40f3-9245-672bb8b6fac8,Energy Bar,2025-07-10,2,6526
+Instagram,Wellness Week,96,c1f3c1b9-5296-4add-9d29-4eba0a17d89d,Energy Bar,2025-03-04,1,4971
+Instagram,Wellness Week,96,4b49dfe1-893c-4ae2-81f6-c1f0c9d1f356,Energy Bar,2025-03-08,1,873
+Instagram,Winter Bulk,96,b7758b7a-35d9-4081-a7f3-7b31d75336f6,Multivitamins,2025-03-22,1,1489
+Instagram,Winter Bulk,96,f3ee0c19-661a-41d9-8867-a0ad011a4102,Omega 3,2025-02-17,2,3752
+Instagram,Wellness Week,96,f26b036f-e64a-4098-9661-e743dbca7ccf,Omega 3,2025-06-23,1,4093
+Instagram,Summer Fit,96,010772dc-9d29-4184-8b96-ced3d835214c,Omega 3,2025-02-20,1,1592
+Instagram,Summer Fit,96,5ba3f072-3890-4e34-a021-9f7081b37993,Creatine,2025-04-28,2,3584
+Instagram,Summer Fit,96,8f5787ce-a482-4f72-965e-34747b9c48db,Multivitamins,2025-05-09,1,552
+Twitter,Festival Boost,97,361f33e2-26e6-4183-a835-b749a3293086,Creatine,2025-05-17,3,8472
+Twitter,Wellness Week,97,610b9b18-5d37-44fd-8956-e64bca18dac6,Multivitamins,2025-05-06,3,4617
+Twitter,Festival Boost,97,d7723c24-367a-46bb-b945-448d98e518f7,Creatine,2025-06-26,3,8157
+Twitter,Summer Fit,97,32e13b05-72e2-4c5c-ab40-c6c6de2073a6,Omega 3,2025-02-10,1,1929
+Twitter,Summer Fit,97,ff01b8b7-d150-49b0-8172-f0c2078305ea,Energy Bar,2025-06-20,1,4595
+Twitter,Summer Fit,97,570e5f1b-6e56-4939-93e5-ce8e7ccd7109,Omega 3,2025-03-28,2,7860
+Twitter,Summer Fit,97,1643ab21-b06d-46bf-a07e-406ae078d331,Omega 3,2025-06-16,1,2072
+Twitter,Wellness Week,98,daaabbe1-c31a-4675-84ea-16d84848bf2e,Creatine,2025-03-04,3,10392
+Twitter,Winter Bulk,98,c3ba12e3-27be-4364-afcf-11f9fa4a2d3b,Protein Powder,2025-03-01,3,6612
+Twitter,Wellness Week,98,b662b330-e56c-414c-93a4-237a37ffc1c0,Creatine,2025-05-18,1,1423
+Twitter,Wellness Week,98,7523920a-23b8-48f2-80cc-62a6571d10c6,Protein Powder,2025-06-07,2,3888
+Twitter,Winter Bulk,98,562dd26a-9a86-4766-977a-082b6d0018c4,Multivitamins,2025-07-12,1,3483
+Twitter,Winter Bulk,98,2ce7c916-9315-4d37-8f99-aff659f0f4b2,Omega 3,2025-04-06,2,5118
+Twitter,Summer Fit,98,21b8bb43-8ece-4402-a27e-ccde1a494b6d,Protein Powder,2025-05-23,2,1708
+Twitter,Wellness Week,98,c703d9e9-671a-42c5-bcc1-4671fc19d911,Protein Powder,2025-05-02,3,5820
+Twitter,Summer Fit,99,10797be5-0a26-4e8e-86db-38ccad0eb2ec,Multivitamins,2025-07-18,3,4350
+Twitter,Winter Bulk,99,7fb59947-52d5-454f-93e3-5cbbb97f7b14,Creatine,2025-06-13,3,12429
+Twitter,Wellness Week,99,a1cae4c5-3170-4947-ac15-3fde13a184d6,Protein Powder,2025-02-07,1,3168
+Twitter,Summer Fit,99,c9f69680-0246-47cd-9a4c-7dc6486ec25d,Multivitamins,2025-04-02,2,4730
+Twitter,Wellness Week,99,bf87ea23-7e47-4d5a-a5a6-31c957388b1b,Creatine,2025-07-07,3,11637
+Twitter,Festival Boost,99,d04ba001-29a8-4cfe-a808-df8194f128e4,Omega 3,2025-04-12,1,1102
+Twitter,Festival Boost,99,be489458-580c-4f96-a989-b1ed59e4472d,Multivitamins,2025-05-05,2,1890
+Twitter,Wellness Week,99,818d2fe0-9181-4253-8286-6fb0777ff6c4,Creatine,2025-06-08,1,4227
+Twitter,Festival Boost,99,c450dce5-82e3-49fb-96b4-52a0ea9a2625,Multivitamins,2025-03-24,2,3234
+Twitter,Winter Bulk,99,d0cd6497-c472-43ee-b3b3-be31ee2f5efa,Multivitamins,2025-03-27,3,10311
+Twitter,Summer Fit,99,cb5e2a30-7127-401a-9818-d5141ef4b929,Omega 3,2025-07-11,2,3084
+Twitter,Wellness Week,99,88b0869a-e60a-492c-b667-6658c6104c06,Protein Powder,2025-07-16,1,2798
+Twitter,Festival Boost,99,9deec576-57d7-440f-adf1-c65a467bfd62,Multivitamins,2025-03-18,2,8512
+Twitter,Winter Bulk,99,dc87eda0-5eca-406c-8441-b8ec7aa78e4c,Omega 3,2025-03-18,2,4602
+Twitter,Wellness Week,99,bab05f74-80c7-4ed9-9314-0a956981d0ed,Protein Powder,2025-05-26,1,1892
+Twitter,Festival Boost,99,13c7ddf3-bc4a-45be-9156-05bf34007214,Multivitamins,2025-05-24,2,9548
+Twitter,Festival Boost,99,87011899-cb73-4203-a6e4-b2438aea1244,Energy Bar,2025-03-14,3,13134
+Twitter,Wellness Week,99,91f679e6-cf6f-4a91-ae94-42516efae2b6,Multivitamins,2025-06-20,1,4007
+Twitter,Wellness Week,99,892d16b7-3794-43fb-94e5-4c7d9af09951,Omega 3,2025-04-09,2,8114
+Twitter,Festival Boost,99,37b91675-6a1c-40f3-8466-fc58b859f378,Protein Powder,2025-02-26,1,541
+YouTube,Summer Fit,100,622871c1-50d6-4e80-954f-8592c5420ea5,Creatine,2025-06-09,2,9260
+YouTube,Festival Boost,100,0054e78b-a728-4709-acfd-bf4e180ff092,Protein Powder,2025-06-28,3,11190
+YouTube,Wellness Week,100,9eb3370d-b6b4-4596-8ad1-3a23d9ee45ce,Protein Powder,2025-03-13,2,9114
+YouTube,Festival Boost,100,bcd6e5ee-0b64-4744-a240-5fd46ac11a75,Multivitamins,2025-07-15,3,1803
+YouTube,Winter Bulk,100,4b62a132-8de6-404d-991c-3478d32deb0c,Multivitamins,2025-04-17,1,3436
+YouTube,Summer Fit,100,08dc7fb3-a238-495e-84cf-89a6ef8be0c5,Creatine,2025-02-12,3,3729
